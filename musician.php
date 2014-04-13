@@ -54,11 +54,30 @@
 
         <br/>
         
-        <div class="row">
-          <div class="col-lg-12">  
-            <h4>This page is currently a work in progress.  Check back soon.  Thanks</h4>
+        <a href="http://miniboone.com/" target="_blank">
+          <div class="projentry">
+            <div id="imgwrapper">
+              <img src="imgs/miniboone.png" class="img-responsive img-rounded" alt="Responsive image">
+            </div>
+            <div id="contentwrapper">
+              <h2>Miniboone : Singer, Songwriter, Musician, Performer</h2>
+              <p><a></a>From September 2009 to January 2014, I was an active member of the touring and recording New York based indie band, Miniboone.</p>
+            </div>
           </div>
-        </div>  
+        </a>
+
+        <a href="http://vimeo.com/48551367" target="_blank">
+          <div class="projentry">
+            <div id="imgwrapper">
+              <img src="imgs/CinemasiveDisplays.png" class="img-responsive img-rounded" alt="Responsive image">
+            </div>
+            <div id="contentwrapper">
+              <h2>CineMassive Displays OmegaPlex Commercial : Music Composer</h2>
+              <p><a></a>Freelance music composition work.  Music composed and recorded in Logic Pro.  Setpember 2009.</p>
+            </div>
+          </div>
+        </a>  
+
       </div> <!--container-->   
     </div> <!--wrap-->
 

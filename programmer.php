@@ -54,25 +54,13 @@
         </div>
         <br/>
 
-        <a href="https://github.com/jkeary" target="_tab">
-          <div class="projentry">
-            <div id="imgwrapper">
-              <img src="imgs/" class="img-responsive img-rounded" alt="Responsive image">
-            </div>
-            <div id="contentwrapper">
-              <h3>My GitHub Account</h3>
-              <p><a></a>Most of the code for past projects that I have done.<a href="http://jameskeary.com/sonification_proj.php" target="_tab">Medical Imaging Sonification</a> NYU Steinhardt research project.</p>
-            </div>
-          </div>
-        </a>
-
         <a href="soni_gui_proj.php">
           <div class="projentry">
             <div id="imgwrapper">
               <img src="imgs/interactivesonification.png" class="img-responsive img-rounded" alt="Responsive image">
             </div>
             <div id="contentwrapper">
-              <h3>Interactive Medical Imaging Sonification GUI</h3>
+              <h2>Interactive Medical Imaging Sonification GUI</h2>
               <p><a></a>The GUI software I developed in SuperCollider for the <a href="http://jameskeary.com/sonification_proj.php" target="_tab">Medical Imaging Sonification</a> NYU Steinhardt research project.</p>
             </div>
           </div>
@@ -84,7 +72,7 @@
               <img src="imgs/SievesProjPic.png" class="img-responsive img-rounded" alt="Responsive image">
             </div>
             <div id="contentwrapper">
-              <h3>A Musical Calculator</h3>
+              <h2>A Musical Calculator</h2>
               <p><a></a>This was my final project for the Java Music Systems class, Fall 2011, and my first real attempt at algorithmic composition.  The idea behind the project was to create a tool for the modern day composer: a musical calculator based on Greek stochastic composer <a href="http://www.iannis-xenakis.org/xen/index.html" target="_tab">Iannis Xenakis</a>'s sieve theory.  The project was written in Java with the JMSL API.</p>
             </div>
           </div>

@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>James Keary</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="James Keary is a freelance sound designer, a web designer and software programmer, an audio consultant and a musician in New York City">
+    <meta name="description" content="James Keary is a freelance sound designer, a web designer and software programmer, an audio consultant and an independent musician in New York City">
     <link href="css/bootstrap.css" rel="stylesheet" />
     <link href="css/bootstrap-theme.css" rel="stylesheet" />
     <link href="css/steeze.css" rel="stylesheet" />
@@ -23,7 +23,7 @@
         
         <div class="row">
           <div class="col-lg-12">  
-            <p style="text-align:center">Welcome to my portfolio.  The site is a work in progress.  Thanks<p>
+            <p style="text-align:center">Welcome to my portfolio website.<p>
           </div>
         </div>
         

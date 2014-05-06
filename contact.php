@@ -49,6 +49,7 @@
      
       <div class="container" style="max-width:1100px">
         
+
         <div class="page-header-custom">
           <h1 class="text-left"><span class="glyphicon glyphicon-envelope"></span> Contact Me</h1>
         </div>
@@ -56,8 +57,21 @@
         <br/>
 
         <div class="row">
-          <div class="col-lg-12">  
-            <h4>You can email at <a href="mailto:jkeary@gmail.com" target="_blank">jkeary@gmail.com</a> if you need work done in the following fields:</h4>
+          <div class="col-lg-9">  
+            <h4>If you need work done in the following fields, you can email at <a href="mailto:jkeary@gmail.com" target="_blank">jkeary@gmail.com</a> or Skype me:</h4>
+          </div>
+          <div class="col-xs-3">  
+            <script type="text/javascript" src="http://www.skypeassets.com/i/scom/js/skype-uri.js"></script>
+              <div id="SkypeButton_Call_jameskeary_1">
+                <script type="text/javascript">
+                  Skype.ui({
+                    "name": "call",
+                    "element": "SkypeButton_Call_jameskeary_1",
+                    "participants": ["jameskeary"],
+                    "imageSize": 24
+                  });
+                </script>
+              </div>
           </div>
         </div>
 

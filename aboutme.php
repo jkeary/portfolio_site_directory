@@ -54,11 +54,12 @@
         </div>
         <br/>
         <div>
-          <img class="centerimg_md img-responsive img-rounded" src="./imgs/3A3.jpg"/>
+          <p class="lead">
+            <img class="rightimg_md img-responsive img-rounded" src="./imgs/me2_2014_05_02.jpg" align="right"/>
+            I am a sound designer, programmer, and independent artist.  I have a Masters in <a href="http://steinhardt.nyu.edu/music/technology/programs/graduate/" target="_tab">Music Technology</a> from NYU, where I studied digital audio processing, audio programming, surround sound, acoustics, psychoacoustics, and audio electronics.  <a href="http://steinhardt.nyu.edu/music/technology/research/masters_theses" target="_tab">My thesis work</a> was on virtual surround sound microphone design, using <a href="http://www.ambisonic.net/" target="_tab">Ambisonics</a> and digital signal processing.  I have programming experience in front end web development, GUI software development, audio programming.  I am also an independent musician; I was a founding member of the New York indie band <a href="http://www.miniboone.com" target="_tab">Miniboone</a>, and a commissioned songwriter and composer for commercials, film, and musical artists.  <a href="http://www.jameskeary.com/docs/Resume2014_forweb.pdf" target="_tab">Here</a> is my resume.  Feel free to contact me at <a href="mailto:jkeary@gmail.com" target="_blank">jkeary@gmail.com</a> for work.
+          </p> 
         </div>
-        <br/>
-        <p class="lead">I am a recent graduate from New York University, Steinhardt with a Masters in <a href="http://steinhardt.nyu.edu/music/technology/programs/graduate/" target="_tab">Music Technology</a>.  While there, I studied what can generally be described as the science of sound, studying such diverse subjects as digital signal processing, programming for audio, sound sythesis, audio codec design, immersive and 3D audio, acoustics, psychoacoustics, electronics, and sound design for games and film.  I also continued my musical studies from undergrad taking classes in orchestration and theory.  <a href="http://steinhardt.nyu.edu/music/technology/research/masters_theses" target="_tab">My thesis work</a> was on the design and execution of a virtual surround sound microphone, based in the field of <a href="http://www.ambisonic.net/" target="_tab">Ambisonics</a>. I am also a musician, having studied at <a href="http://new.oberlin.edu/conservatory/" target="_tab">the Oberlin Conservatory</a> and performed in the New York indie rock band <a href="http://miniboone.com/" target="_tab">Miniboone</a>.  I have professional experience in composition, orchestration/arranging, and sound design, as well as tutoring experience in music theory and guitar technique. <a href="http://www.jameskeary.com/docs/Resume2014_forweb.pdf" target="_tab">This</a> is the most current version of my resume.  Currently, I am working in New York City as a freelance sound designer, programmer, audio consultant, and musician.  Feel free to contact me at <a href="mailto:jkeary@gmail.com" target="_blank">jkeary@gmail.com</a> for work.</p>
-             
+                    
       </div><!--container-->
 
       <br/>

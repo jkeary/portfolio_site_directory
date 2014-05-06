@@ -55,7 +55,7 @@
 
         <br/>
 
-        <p class="lead">This section show a selection of editing, directing and creative work that I have done in the medium of digital video.  I hope you enjoy.</p>
+        <p class="lead">A selection of my editing, directing and creative work in the medium of digital video.</p>
         
         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
           <!-- Indicators -->

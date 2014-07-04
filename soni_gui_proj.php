@@ -32,10 +32,11 @@
             <li><a href="./musician.php"><span class="glyphicon glyphicon-music"></span> Music</a></li>
             <li><a href="./videographer.php"><span class="glyphicon glyphicon-facetime-video"></span> Video</a></li>
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-folder-open"></span> Docs<b class="caret"></b></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-folder-close"></span> Docs<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="./docs/Resume2014_forweb.pdf" target="_tab"><span class="glyphicon glyphicon-file"></span> Resume</a></li>
-                <li><a href="./docs/ThesisDocument_jpk.pdf" target="_tab"><span class="glyphicon glyphicon-file"></span> NYU Masters Thesis</a></li>
+                <li><a href="./docs/CV_2014.pdf" target="_tab"><span class="glyphicon glyphicon-file"></span> CV</a></li>
+                <li><a href="./publications.php"><span class="glyphicon glyphicon-folder-close"></span> Publications</a></li>
+                <li><a href="./presentations.php"><span class="glyphicon glyphicon-folder-close"></span> Presentations</a></li>
               </ul>
             </li>
             <li><a href="./aboutme.php"><span class="glyphicon glyphicon-user"></span> About</a></li>
@@ -47,22 +48,21 @@
     <div id="wrap">
       <div class="container" style="max-width:1000px">
         <div class="page-header-custom">
-          <h1 class="text-left"><a href="./programmer.php"><span class="glyphicon glyphicon-phone"></span></a> Interactive Medical Imaging Sonification GUI</h1>
+          <h1 class="text-left"><a href="./programmer.php"><span class="glyphicon glyphicon-phone"></span></a> Medical Imaging Sonification Software Demo</h1>
         </div>
-        
-        <br/>
-        
-        <p>This GUI was designed in the <a href="http://supercollider.github.io/" target="_tab">SuperCollider</a> audio sythesis programming language.  The sonifiction mode is what is known as triple-tone sonifcation.  In this sonification mode, the average gamma ray radiation intensity of 3 lobes are set to triangle wave oscillators.  Neurologists often use a similar  tactic, when visually examining brain scan images, by comparing the intensity of the parietal and frontal regions to that of the sensorymotor cortex.  In the visual realm, this is translated into brighter colors.  Sonically, we used higher and lower frequency values.  Alzheimer's disease is usually present in a few lobes of interest, the frontal lobe and the parietal lobe.  The sensorymotor cortex acts as the reference lobe since there is never any decrease in brain activity in that region of the brain in AD.  These three oscillators beat at different frequencies, forming different rhythmic patterns and timbral textures.  The GUI is set up for <i>interactive</i> sonification, so that the user is able to test the beating patterns.  The goal of this project was to find beating patterns specific to the levels of severity of AD, for instance, mild, moderate, and severe.  This video demonstrates what a moderate severity brain can sound like using this technique.</p>
 
-        <video width="70%" height="auto" class="center_video_pad" controls>
-          <source src="./video/interactive_sonification_GUI.mp4" type="video/mp4">
-          <source src="./video/interactive_sonification_GUI.ogg" type="video/ogg">
-          Your browser does not support the video tag.
-        </video>
-        
         <br/>
 
-        <p>This GUI was designed for the ongoing NYU Steinhardt Music Technology <a href="http://marl.smusic.nyu.edu/wordpress/" target="_tab">MARL</a> project on <a href="http://marl.smusic.nyu.edu/wordpress/projects/medical-imaging-sonification/" target="_tab">Medical Imaging Sonification</a>.</p>
+        <div class="videowrapper">
+          <video class="center_video" width="50%" height="auto" controls>
+            <source src="./video/interactive_sonification_GUI.mp4" type="video/mp4">
+            <source src="./video/interactive_sonification_GUI.ogg" type="video/ogg">
+            Your browser does not support the video tag.
+          </video>
+          <p class="caption" style="width:10%"></p>
+        </div>
+
+        <p>Software I developed for the ongoing NYU Steinhardt Music Technology <a href="http://marl.smusic.nyu.edu/wordpress/" target="_tab">MARL</a> project on <a href="http://marl.smusic.nyu.edu/wordpress/projects/medical-imaging-sonification/" target="_tab">Medical Imaging Sonification</a>.  Written in the <a href="http://supercollider.github.io/" target="_tab">SuperCollider</a> programming language, this software was developed for <i>interactive</i> sonification, where the user is able to prototype audio parameters mapped to the data set.  For a complete project description you can read the publication on it <a href="http://www.jameskeary.com/docs/SONIFICATION%20METHOD%20TO%20ENHANCE%20THE%20DIAGNOSIS%20OF%20DEMENTIA.pdf" target="_tab">here</a> or my conference presentation on the publication <a href="http://www.jameskeary.com/docs/Sonification_ICAD2014Talk.pdf" target="_tab">here</a>.  I also explain the project, focusing on my job, <a href="http://www.jameskeary.com/sonification_proj.php">here</a>.</p>
 
       </div> <!--container-->
   </div> <!--wrap-->

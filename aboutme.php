@@ -33,10 +33,11 @@
             <li><a href="./musician.php"><span class="glyphicon glyphicon-music"></span> Music</a></li>
             <li><a href="./videographer.php"><span class="glyphicon glyphicon-facetime-video"></span> Video</a></li>
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-folder-open"></span> Docs<b class="caret"></b></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-folder-close"></span> Docs<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="./docs/Resume2014_forweb.pdf" target="_tab"><span class="glyphicon glyphicon-file"></span> Resume</a></li>
-                <li><a href="./docs/ThesisDocument_jpk.pdf" target="_tab"><span class="glyphicon glyphicon-file"></span> NYU Masters Thesis</a></li>
+                <li><a href="./docs/CV_2014.pdf" target="_tab"><span class="glyphicon glyphicon-file"></span> CV</a></li>
+                <li><a href="./publications.php"><span class="glyphicon glyphicon-folder-close"></span> Publications</a></li>
+                <li><a href="./presentations.php"><span class="glyphicon glyphicon-folder-close"></span> Presentations</a></li>
               </ul>
             </li>
             <li class="active"><a href="./aboutme.php"><span class="glyphicon glyphicon-user"></span> About</a></li>
@@ -56,7 +57,7 @@
         <div>
           <p class="lead">
             <img class="rightimg_md img-responsive img-rounded" src="./imgs/me2_2014_05_02.jpg" align="right"/>
-            I am a sound designer, programmer, and independent artist.  I have a Masters in <a href="http://steinhardt.nyu.edu/music/technology/programs/graduate/" target="_tab">Music Technology</a> from NYU, where I studied digital audio processing, audio programming, surround sound, acoustics, psychoacoustics, and audio electronics.  <a href="http://steinhardt.nyu.edu/music/technology/research/masters_theses" target="_tab">My thesis work</a> was on virtual surround sound microphone design, using <a href="http://www.ambisonic.net/" target="_tab">Ambisonics</a> and digital signal processing.  I have programming experience in front end web development, GUI software development, audio programming.  I am also an independent musician; I was a founding member of the New York indie band <a href="http://www.miniboone.com" target="_tab">Miniboone</a>, and a commissioned songwriter and composer for commercials, film, and musical artists.  <a href="http://www.jameskeary.com/docs/Resume2014_forweb.pdf" target="_tab">Here</a> is my resume.  Feel free to contact me at <a href="mailto:jkeary@gmail.com" target="_blank">jkeary@gmail.com</a> for work.
+            I am a sound designer, programmer, and independent artist.  I have a Masters in <a href="http://steinhardt.nyu.edu/music/technology/programs/graduate/" target="_tab">Music Technology</a> from NYU, where I studied digital audio processing, audio programming, surround sound, acoustics, psychoacoustics, and audio electronics.  <a href="http://steinhardt.nyu.edu/music/technology/research/masters_theses" target="_tab">My thesis work</a> was on virtual surround sound microphone design, using <a href="http://www.ambisonic.net/" target="_tab">Ambisonics</a> and digital signal processing.  I have programming experience in web development, software development, audio and digital signal programming.  I am also an independent musician and composer; I was a founding member of the New York indie band <a href="http://www.miniboone.com" target="_tab">Miniboone</a>, and a commissioned composer for commercials, film, and musical artists.  <a href="http://www.jameskeary.com/docs/CV_2014.pdf" target="_tab">Here</a> is my CV.  Feel free to contact me at <a href="mailto:jkeary@gmail.com" target="_blank">jkeary@gmail.com</a> for work.
           </p> 
         </div>
                     

@@ -32,10 +32,11 @@
             <li><a href="./musician.php"><span class="glyphicon glyphicon-music"></span> Music</a></li>
             <li><a href="./videographer.php"><span class="glyphicon glyphicon-facetime-video"></span> Video</a></li>
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-folder-open"></span> Docs<b class="caret"></b></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-folder-close"></span> Docs<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="./docs/Resume2014_forweb.pdf" target="_tab"><span class="glyphicon glyphicon-file"></span> Resume</a></li>
-                <li><a href="./docs/ThesisDocument_jpk.pdf" target="_tab"><span class="glyphicon glyphicon-file"></span> NYU Masters Thesis</a></li>
+                <li><a href="./docs/CV_2014.pdf" target="_tab"><span class="glyphicon glyphicon-file"></span> CV</a></li>
+                <li><a href="./publications.php"><span class="glyphicon glyphicon-folder-close"></span> Publications</a></li>
+                <li><a href="./presentations.php"><span class="glyphicon glyphicon-folder-close"></span> Presentations</a></li>
               </ul>
             </li>
             <li><a href="./aboutme.php"><span class="glyphicon glyphicon-user"></span> About</a></li>
@@ -49,15 +50,14 @@
         <div class="page-header-custom">
           <h1 class="text-left"><a href="./videographer.php"><span class="glyphicon glyphicon-facetime-video"></span></a> Cool Kids Cut Out of the Heart Itself</h1>
         </div>
-        <br/>
+        <p class="lead"><a href="http://miniboone.com/" target="_tab">Miniboone</a>'s first music video, released 2010.  Editor.</p>
         <video class="center_video" width="100%" height="auto" controls>
           <source src="./video/Cool_Kids_1280x720px_HD.mp4" type="video/mp4">
           <source src="./video/Cool_Kids_1280x720px_HD.ogg" type="video/ogg">
           Your browser does not support the video tag.
         </video>
         <br/>
-        <p class="lead">This is <a href="http://miniboone.com/" target="_tab">Miniboone</a>'s first music video, which we created in late 2009 and released in 2010.  I edited the footage using Final Cut Pro.</p>
-      </div><!--container-->
+         </div><!--container-->
     </div><!--wrap-->
 
     <div id="footer">

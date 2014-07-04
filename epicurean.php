@@ -29,13 +29,14 @@
           <ul class="nav navbar-nav navbar-right">
             <li><a href="./sounddesigner.php"><span class="glyphicon glyphicon-headphones"></span> Sound</a></li>
             <li><a href="./programmer.php"><span class="glyphicon glyphicon-phone"></span> Code</a></li>
-            <li><a href="./musicians.php"><span class="glyphicon glyphicon-music"></span> Music</a></li>
+            <li><a href="./musician.php"><span class="glyphicon glyphicon-music"></span> Music</a></li>
             <li><a href="./videographer.php"><span class="glyphicon glyphicon-facetime-video"></span> Video</a></li>
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-folder-open"></span> Docs<b class="caret"></b></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-folder-close"></span> Docs<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="./docs/Resume2014_forweb.pdf" target="_tab"><span class="glyphicon glyphicon-file"></span> Resume</a></li>
-                <li><a href="./docs/ThesisDocument_jpk.pdf" target="_tab"><span class="glyphicon glyphicon-file"></span> NYU Masters Thesis</a></li>
+                <li><a href="./docs/CV_2014.pdf" target="_tab"><span class="glyphicon glyphicon-file"></span> CV</a></li>
+                <li><a href="./publications.php"><span class="glyphicon glyphicon-folder-close"></span> Publications</a></li>
+                <li><a href="./presentations.php"><span class="glyphicon glyphicon-folder-close"></span> Presentations</a></li>
               </ul>
             </li>
             <li><a href="./aboutme.php"><span class="glyphicon glyphicon-user"></span> About</a></li>
@@ -49,15 +50,14 @@
         <div class="page-header-custom">
           <h1 class="text-left"><a href="./videographer.php"><span class="glyphicon glyphicon-facetime-video"></span></a> The Epicurean</h1>
         </div>
-        <br/>
+        <p class="lead">Stop motion animation project, Advanced Digital Video Editing 2006, Oberlin College.</p>
         <video width="100%" height="auto" class="center_video" controls>
           <source src="./video/The_Epicurean_640x480px_SD.mp4" type="video/mp4">
           <source src="./video/The_Epicurean_640x480px_SD.ogg" type="video/ogg">
           Your browser does not support the video tag.
         </video>
+        <p class="lead">Pablo Picasso once said that, "every act of creation is first an act of destruction".  I think its the other way around.</p>
         <br/>
-        <p class="lead">"One cup flour. Two teaspoons granular sugar. A dash of kickass."</p>
-        <p class="lead">This short was <a href="http://www.averymonsen.com/" target="_tab">Avery Monsen</a>'s and my stop motion animation project for our senior year Advanced Digital Video Editing class at Oberlin college in 2006.  Pablo Picasso once said that, "every act of creation is first an act of destruction", in this video I think we got it the other way around.  The short stars Ben Sinclair.</p>
       </div><!--container-->
     </div><!--wrap-->
 

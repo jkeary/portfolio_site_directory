@@ -30,14 +30,15 @@
           <ul class="nav navbar-nav navbar-left"></ul>
           <ul class="nav navbar-nav navbar-right">
             <li><a href="./sounddesigner.php"><span class="glyphicon glyphicon-headphones"></span> Sound</a></li>
-            <li><a href="./programming.php"><span class="glyphicon glyphicon-phone"></span> Code</a></li>
+            <li><a href="./programmer.php"><span class="glyphicon glyphicon-phone"></span> Code</a></li>
             <li><a href="./musician.php"><span class="glyphicon glyphicon-music"></span> Music</a></li>
             <li class="active"><a href="./videographer.php"><span class="glyphicon glyphicon-facetime-video"></span> Video</a></li>
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-folder-open"></span> Docs<b class="caret"></b></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-folder-close"></span> Docs<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="./docs/Resume2014_forweb.pdf" target="_tab"><span class="glyphicon glyphicon-file"></span> Resume</a></li>
-                <li><a href="./docs/ThesisDocument_jpk.pdf" target="_tab"><span class="glyphicon glyphicon-file"></span> NYU Masters Thesis</a></li>
+                <li><a href="./docs/CV_2014.pdf" target="_tab"><span class="glyphicon glyphicon-file"></span> CV</a></li>
+                <li><a href="./publications.php"><span class="glyphicon glyphicon-folder-close"></span> Publications</a></li>
+                <li><a href="./presentations.php"><span class="glyphicon glyphicon-folder-close"></span> Presentations</a></li>
               </ul>
             </li>
             <li><a href="./aboutme.php"><span class="glyphicon glyphicon-user"></span> About</a></li>
@@ -47,15 +48,13 @@
     </div>
 
     <div id="wrap">
-      <div class="container" style="max-width:940px">
+      <div class="container" style="max-width:700px">
 
         <div class="page-header-custom">
           <h1 class="text-left"><span class="glyphicon glyphicon-facetime-video"></span> Video</h1>
         </div>
 
         <br/>
-
-        <p class="lead">A selection of my editing, directing and creative work in the medium of digital video.</p>
         
         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
           <!-- Indicators -->

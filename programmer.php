@@ -33,10 +33,11 @@
             <li><a href="./musician.php"><span class="glyphicon glyphicon-music"></span> Music</a></li>
             <li><a href="./videographer.php"><span class="glyphicon glyphicon-facetime-video"></span> Video</a></li>
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-folder-open"></span> Docs<b class="caret"></b></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-folder-close"></span> Docs<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="./docs/Resume2014_forweb.pdf" target="_tab"><span class="glyphicon glyphicon-file"></span> Resume</a></li>
-                <li><a href="./docs/ThesisDocument_jpk.pdf" target="_tab"><span class="glyphicon glyphicon-file"></span> NYU Masters Thesis</a></li>
+                <li><a href="./docs/CV_2014.pdf" target="_tab"><span class="glyphicon glyphicon-file"></span> CV</a></li>
+                <li><a href="./publications.php"><span class="glyphicon glyphicon-folder-close"></span> Publications</a></li>
+                <li><a href="./presentations.php"><span class="glyphicon glyphicon-folder-close"></span> Presentations</a></li>
               </ul>
             </li>
             <li><a href="./aboutme.php"><span class="glyphicon glyphicon-user"></span> About</a></li>
@@ -60,8 +61,8 @@
               <img src="imgs/interactivesonification.png" class="img-responsive img-rounded" alt="Responsive image">
             </div>
             <div id="contentwrapper">
-              <h2>Interactive Medical Imaging Sonification GUI</h2>
-              <p><a></a>The GUI software I developed in SuperCollider for the <a href="http://jameskeary.com/sonification_proj.php" target="_tab">Medical Imaging Sonification</a> NYU Steinhardt research project.</p>
+              <h2>Interactive Medical Imaging Sonification Software Demo</h2>
+              <p><a></a>Software I developed for the <a href="http://jameskeary.com/sonification_proj.php" target="_tab">Medical Imaging Sonification</a> NYU Steinhardt research project.</p>
             </div>
           </div>
         </a>
@@ -72,7 +73,7 @@
               <img src="imgs/SievesProjPic.png" class="img-responsive img-rounded" alt="Responsive image">
             </div>
             <div id="contentwrapper">
-              <h2>A Musical Calculator</h2>
+              <h2>A Musical Calculator Application</h2>
               <p><a></a>This was my final project for the Java Music Systems class, Fall 2011, and my first real attempt at algorithmic composition.  The idea behind the project was to create a tool for the modern day composer: a musical calculator based on Greek stochastic composer <a href="http://www.iannis-xenakis.org/xen/index.html" target="_tab">Iannis Xenakis</a>'s sieve theory.  The project was written in Java with the JMSL API.</p>
             </div>
           </div>

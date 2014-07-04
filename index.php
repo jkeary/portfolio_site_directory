@@ -82,8 +82,8 @@
           </div>
           <div class="col-xs-4">
             <center>
-              <button type="button" class="btn btn-fake" rel="popover" data-container="body" data-toggle="popover" data-placement="right" data-html="true" data-content="<ul><li><a href='./docs/Resume2014_forweb.pdf' target='_tab'><span class='glyphicon glyphicon-file'></span> Resume</a></li><li><a href='./docs/ThesisDocument_jpk.pdf' target='_tab'><span class='glyphicon glyphicon-file'></span> NYU Masters Thesis</a></li></ul>">
-                <span class="glyphicon glyphicon-file glyphicon-index"></span>
+              <button type="button" class="btn btn-fake" rel="popover" data-container="body" data-toggle="popover" data-placement="left" data-html="true" data-content="<ul><li><a href='./docs/CV_2014.pdf' target='_tab'><span class='glyphicon glyphicon-file'></span> CV</a></li><li><a href='./publications.php'><span class='glyphicon glyphicon-folder-close'></span> Publications</a></li><li><a href='./presentations.php'><span class='glyphicon glyphicon-folder-close'></span> Presentations</a></li></ul>">
+                <span class="glyphicon glyphicon-folder-close glyphicon-index"></span>
                 <br/>
                 <h2 class="small">Documents</h2>
               </button>

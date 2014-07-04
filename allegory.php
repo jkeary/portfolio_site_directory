@@ -33,10 +33,11 @@
             <li><a href="./musician.php"><span class="glyphicon glyphicon-music"></span> Music</a></li>
             <li><a href="./videographer.php"><span class="glyphicon glyphicon-facetime-video"></span> Video</a></li>
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-folder-open"></span> Docs<b class="caret"></b></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-folder-close"></span> Docs<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="./docs/Resume2014_forweb.pdf" target="_tab"><span class="glyphicon glyphicon-file"></span> Resume</a></li>
-                <li><a href="./docs/ThesisDocument_jpk.pdf" target="_tab"><span class="glyphicon glyphicon-file"></span> NYU Masters Thesis</a></li>
+                <li><a href="./docs/CV_2014.pdf" target="_tab"><span class="glyphicon glyphicon-file"></span> CV</a></li>
+                <li><a href="./publications.php"><span class="glyphicon glyphicon-folder-close"></span> Publications</a></li>
+                <li><a href="./presentations.php"><span class="glyphicon glyphicon-folder-close"></span> Presentations</a></li>
               </ul>
             </li>
             <li><a href="./aboutme.php"><span class="glyphicon glyphicon-user"></span> About</a></li>
@@ -46,19 +47,17 @@
     </div>
 
     <div id="wrap">
-      <div class="container">
+      <div class="container" style="max-width:950px">
         <div class="page-header-custom">
           <h1 class="text-left"><a href="./videographer.php"><span class="glyphicon glyphicon-facetime-video"></span></a> An Allegory</h1>
         </div>
-        <br/>
-        <video width="100%" height="auto" class="center_video" controls>
+        <p class="lead">Puppetry, greenscreens, and life lessons.  Final Project for Advanced Video Editing 2006, Oberlin College.</p>
+        <video width="70%" height="auto" class="center_video" controls>
           <source src="./video/An_Allegory_640x480px_SD.mp4" type="video/mp4">
           <source src="./video/An_Allegory_640x480px_SD.ogg" type="video/ogg">
           Your browser does not support the video tag.
         </video>
         <br/>
-        <p class="lead">"an age old tale of curiosity and sacrifice"</p>
-        <p class="lead">This video project was <a href="http://www.averymonsen.com/" target="_tab">Avery Monsen</a>'s and my final project for my Oberlin College senior year class in Advanced Video Editing 2006. In this video, we used puppetry and greenscreens to tell the story (based on one of Avery's cartoons) of what happens when you dream too big.</p>
   
       </div><!--container-->
     </div><!--wrap-->

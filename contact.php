@@ -33,10 +33,11 @@
             <li><a href="./musician.php"><span class="glyphicon glyphicon-music"></span> Music</a></li>
             <li><a href="./videographer.php"><span class="glyphicon glyphicon-facetime-video"></span> Video</a></li>
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-folder-open"></span> Docs<b class="caret"></b></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-folder-close"></span> Docs<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="./docs/Resume2014_forweb.pdf" target="_tab"><span class="glyphicon glyphicon-file"></span> Resume</a></li>
-                <li><a href="./docs/ThesisDocument_jpk.pdf" target="_tab"><span class="glyphicon glyphicon-file"></span> NYU Masters Thesis</a></li>
+                <li><a href="./docs/CV_2014.pdf" target="_tab"><span class="glyphicon glyphicon-file"></span> CV</a></li>
+                <li><a href="./publications.php"><span class="glyphicon glyphicon-folder-close"></span> Publications</a></li>
+                <li><a href="./presentations.php"><span class="glyphicon glyphicon-folder-close"></span> Presentations</a></li>
               </ul>
             </li>
             <li><a href="./aboutme.php"><span class="glyphicon glyphicon-user"></span> About</a></li>
@@ -47,8 +48,7 @@
 
     <div id="wrap">
      
-      <div class="container" style="max-width:1100px">
-        
+      <div class="container tooltip-use" style="max-width:1050px"> 
 
         <div class="page-header-custom">
           <h1 class="text-left"><span class="glyphicon glyphicon-envelope"></span> Contact Me</h1>
@@ -58,11 +58,11 @@
 
         <div class="row">
           <div class="col-lg-9">  
-            <h4>If you need work done in the following fields, you can email at <a href="mailto:jkeary@gmail.com" target="_blank">jkeary@gmail.com</a> or Skype me:</h4>
+            <h4>If you need work done in the following fields, email at <a href="mailto:jkeary@gmail.com" target="_blank">jkeary@gmail.com</a> or Skype me:</h4>
           </div>
           <div class="col-xs-3">  
             <script type="text/javascript" src="http://www.skypeassets.com/i/scom/js/skype-uri.js"></script>
-              <div id="SkypeButton_Call_jameskeary_1">
+              <div id="SkypeButton_Call_jameskeary_1" data-toggle="tooltip" data-placement="left" title="Skype Me">
                 <script type="text/javascript">
                   Skype.ui({
                     "name": "call",
@@ -76,38 +76,34 @@
         </div>
 
         <div class="row">  
-          <div class="col-sm-3">  
-            <h3 margin="10px 0">Audio Programming:</h3>   
-            <p margin="10px 0 10px 0" style="text-align:left">C, Java, MatLab, SuperCollider, Csound, Pure Data, Unreal Script</p>  
+          <div class="col-sm-4">  
+            <h3 margin="10px 0">Programmer with Specialties in Audio and Web:</h3>   
+            <p margin="10px 0 10px 0" style="text-align:left">C, Java, MatLab, HTML, CSS, JavaScript, JQuery, JMSL, Jsyn, Web Audio API, SuperCollider, Pure Data, Digital Signal Processing</p>  
           </div>  
-          <div class="col-sm-3">  
-            <h3 margin="10px 0">Web Development:</h3>   
-            <p margin="10px 0 10px 0" style="text-align:left">HTML, CSS, JavaScript, Java, JQuery, JMSL, Jsyn and Web Audio API</p>  
+          <div class="col-sm-4">  
+            <h3 margin="10px 0">Sound Designer for Game and Video:</h3>   
+            <p margin="10px 0 10px 0" style="text-align:left">Logic Pro, Ableton Live, Pro Tools, Reaper, FMod Designer, Unreal Development Kit, Unreal Scripting, Final Cut Studio</p>  
           </div>  
-          <div class="col-sm-3">  
-            <h3 margin="10px 0">Sound Design:</h3>   
-            <p margin="10px 0 10px 0" style="text-align:left">Logic Pro, Ableton Live, Pro Tools, Reaper, FMod Designer, Unreal Development Kit, Final Cut Studio</p>  
-          </div>  
-          <div class="col-sm-3">  
-            <h3 margin="10px 0">Music:</h3>   
-            <p margin="10px 0 10px 0" style="text-align:left">Finale, Sibelius, Songwriter, Composer, Orchestrator, Musician, Guitarist, Guitar Instructor</p>  
+          <div class="col-sm-4">  
+            <h3 margin="10px 0">Composer and Songwriter for Video and Film:</h3>   
+            <p margin="10px 0 10px 0" style="text-align:left">Finale, Sibelius, Csound, Songwriter, Composer, Orchestrator, Musician, Guitarist, Guitar Theory and Technique Instructor, Algorithmic Composition, Sonification</p>  
           </div>  
         </div>   
-
-        <br/>
              
         <h4>I am also plugged into the networks below.  If you are too, thats neat, lets connect.</h4>
       
-        <a href="http://www.linkedin.com/in/jameskeary" target="_blank"><img src="./imgs/linkedin_48.png" alt="LinkedIn" id="LinkedIn"/></a>
-        <a href="http://angel.co/james-keary" target="_blank"><img src="./imgs/angellist_48.png" alt="Angellist" id="Angellist"/></a>
-        <a href="http://www.facebook.com/jaemskeray" target="_blank"><img src="./imgs/fb_48.png" alt="Facebook" id="Facebook"/></a>
-        <a href="http://www.youtube.com/JaemsKeray" target="_blank"><img src="./imgs/yt_48.png" alt="YouTube" id="Youtube"/></a>
-        <a href="http://www.vimeo.com/jaemskeray" target="_blank"><img src="./imgs/vimeo_48.png" alt="Vimeo" id="Vimeo"/></a>
-        <a href="https://github.com/jkeary" target="_blank"><img src="./imgs/github_48.png" alt="Github" id="Github"/></a>
-        <a href="http://soundcloud.com/jameskeary" target="_blank"><img src="./imgs/soundcloud_48.png" alt="Soundcloud" id="Soundcloud"/></a>
-        <a href="http://oneminreviews.wordpress.com/" target="_blank"><img src="./imgs/wordpress_48.png" alt="Wordpress" id="Wordpress"/></a>
+        <a data-toggle="tooltip" data-placement="bottom" title="LinkedIn" href="http://www.linkedin.com/in/jameskeary" target="_blank"><img src="./imgs/linkedin_48.png" alt="LinkedIn" id="LinkedIn"/></a>
+        <a data-toggle="tooltip" data-placement="bottom" title="Angellist" href="http://angel.co/james-keary" target="_blank"><img src="./imgs/angellist_48.png" alt="Angellist" id="Angellist"/></a>
+        <a data-toggle="tooltip" data-placement="bottom" title="Facebook" href="http://www.facebook.com/jaemskeray" target="_blank"><img src="./imgs/fb_48.png" alt="Facebook" id="Facebook"/></a>
+        <a data-toggle="tooltip" data-placement="bottom" title="YouTube" href="http://www.youtube.com/JaemsKeray" target="_blank"><img src="./imgs/yt_48.png" alt="YouTube" id="Youtube"/></a>
+        <a data-toggle="tooltip" data-placement="bottom" title="Vimeo" href="http://www.vimeo.com/jaemskeray" target="_blank"><img src="./imgs/vimeo_48.png" alt="Vimeo" id="Vimeo"/></a>
+        <a data-toggle="tooltip" data-placement="bottom" title="Github" href="https://github.com/jkeary" target="_blank"><img src="./imgs/github_48.png" alt="Github" id="Github"/></a>
+        <a data-toggle="tooltip" data-placement="bottom" title="Soundcloud" href="http://soundcloud.com/jameskeary" target="_blank"><img src="./imgs/soundcloud_48.png" alt="Soundcloud" id="Soundcloud"/></a>
+        <a data-toggle="tooltip" data-placement="bottom" title="Wordpress" href="http://oneminreviews.wordpress.com/" target="_blank"><img src="./imgs/wordpress_48.png" alt="Wordpress" id="Wordpress"/></a>
 
       </div> <!--container-->
+
+      <br/>
 
     </div> <!--wrap-->
 
@@ -122,6 +118,15 @@
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://code.jquery.com/jquery.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as   needed -->
-    <script src="js/bootstrap.min.js"></script>   
+    <script src="js/bootstrap.min.js"></script> 
+    <!--Tooltip-->
+    <script>
+      $(document).ready(function (){
+        $('.tooltip-use').tooltip({
+          selector: "[data-toggle=tooltip]",
+          container: "body"
+        })
+     });
+    </script>    
   </body>
 </html>

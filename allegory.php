@@ -47,16 +47,17 @@
     </div>
 
     <div id="wrap">
-      <div class="container" style="max-width:950px">
+      <div class="container">
         <div class="page-header-custom">
-          <h1 class="text-left"><a href="./videographer.php"><span class="glyphicon glyphicon-facetime-video"></span></a> An Allegory</h1>
+          <h1 class="text-left"><a href="./videographer.php" data-toggle="tooltip" data-placement="bottom" title="back to video page"><span class="glyphicon glyphicon-facetime-video"></span></a> An Allegory</h1>
         </div>
-        <p class="lead">Puppetry, greenscreens, and life lessons.  Final Project for Advanced Video Editing 2006, Oberlin College.</p>
-        <video width="70%" height="auto" class="center_video" controls>
+        <p class="lead_md">Puppetry, greenscreens, and life lessons.  Final Project for Advanced Video Editing 2006, Oberlin College.</p><br/>
+        <video width="50%" height="auto" class="center_video" controls>
           <source src="./video/An_Allegory_640x480px_SD.mp4" type="video/mp4">
           <source src="./video/An_Allegory_640x480px_SD.ogg" type="video/ogg">
           Your browser does not support the video tag.
         </video>
+
         <br/>
   
       </div><!--container-->
@@ -72,9 +73,16 @@
     ================================================== -->
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://code.jquery.com/jquery.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
-  
+    <!-- Include all compiled plugins (below), or include individual files as   needed -->
+    <script src="js/bootstrap.min.js"></script> 
+    <!--Tooltip-->
+    <script>
+      $(document).ready(function (){
+        $('.tooltip-use').tooltip({
+          selector: "[data-toggle=tooltip]",
+          container: "body"
+        })
+     });
+    </script>     
   </body>
-
 </html>

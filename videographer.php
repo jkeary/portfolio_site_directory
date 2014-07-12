@@ -48,14 +48,15 @@
     </div>
 
     <div id="wrap">
-      <div class="container" style="max-width:700px">
+      <div class="container" style="max-width:790px">
 
         <div class="page-header-custom">
           <h1 class="text-left"><span class="glyphicon glyphicon-facetime-video"></span> Video</h1>
         </div>
 
         <br/>
-        
+
+        <div class="container">
         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
           <!-- Indicators -->
           <ol class="carousel-indicators">
@@ -68,21 +69,21 @@
               <div class="item active">
                 <img src="./imgs/coolkidspic.png" alt="Cool Kids Cut Out of the Heart Itself" class="centerimg img-responsive img-rounded">
                 <div class="carousel-caption">
-                  <h3><a href="./coolkids.php">Cool Kids Cut Out of the Heart Itself - Music Video</a></h3>
+                  <h4><a href="./coolkids.php">Cool Kids Cut Out of the Heart Itself - Music Video</a></h4>
                   <p style="text-align:center">Editor, 2010</p>
                 </div>
               </div>
               <div class="item">
                 <img src="./imgs/allegorypic.png" alt="An Allegory" class="centerimg img-responsive img-rounded">
                 <div class="carousel-caption">
-                  <h3><a href="./allegory.php">An Allegory - Video Short</a></h3>
+                  <h4><a href="./allegory.php">An Allegory - Video Short</a></h4>
                   <p style="text-align:center">Co-Creator, Co-Director, Co-Editor, 2006</p>
                 </div>
               </div>
               <div class="item">
                 <img src="./imgs/epicureanpic.png" alt="The Epicurean" class="centerimg img-responsive img-rounded">
                 <div class="carousel-caption">
-                  <h3><a href="./epicurean.php">The Epicurean - Video Short</a></h3>
+                  <h4><a href="./epicurean.php">The Epicurean - Video Short</a></h4>
                   <p style="text-align:center">Co-Creator, Co-Director, Co-Editor, 2006</p>
                 </div>
               </div>
@@ -97,7 +98,7 @@
             <span class="glyphicon glyphicon-chevron-right"></span>
           </a>
         </div><!--carousel--> 
-        
+        </div>
       </div><!--container-->
       
       <br/>

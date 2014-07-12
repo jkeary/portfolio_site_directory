@@ -61,8 +61,8 @@
               <img src="imgs/interactivesonification.png" class="img-responsive img-rounded" alt="Responsive image">
             </div>
             <div id="contentwrapper">
-              <h2>Interactive Medical Imaging Sonification Software Demo</h2>
-              <p><a></a>Software I developed for the <a href="http://jameskeary.com/sonification_proj.php" target="_tab">Medical Imaging Sonification</a> NYU Steinhardt research project.</p>
+              <h2>Medical Imaging Sonification Software</h2>
+              <p><a></a>Interactive software I developed while working on the <a href="http://jameskeary.com/sonification_proj.php" target="_tab">Medical Imaging Sonification</a> research project at NYU Steinhardt.</p>
             </div>
           </div>
         </a>

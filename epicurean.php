@@ -48,15 +48,14 @@
     <div id="wrap">
       <div class="container">
         <div class="page-header-custom">
-          <h1 class="text-left"><a href="./videographer.php"><span class="glyphicon glyphicon-facetime-video"></span></a> The Epicurean</h1>
+          <h1 class="text-left"><a href="./videographer.php" data-toggle="tooltip" data-placement="bottom" title="back to video page"cc><span class="glyphicon glyphicon-facetime-video"></span></a> The Epicurean</h1>
         </div>
-        <p class="lead">Stop motion animation project, Advanced Digital Video Editing 2006, Oberlin College.</p>
-        <video width="100%" height="auto" class="center_video" controls>
+        <p class="lead_md">Pablo Picasso once said that, "every act of creation is first an act of destruction".  I think its the other way around.  Stop motion animation project, Advanced Digital Video Editing 2006, Oberlin College.</p>
+        <video width="50%" height="auto" class="center_video" controls>
           <source src="./video/The_Epicurean_640x480px_SD.mp4" type="video/mp4">
           <source src="./video/The_Epicurean_640x480px_SD.ogg" type="video/ogg">
           Your browser does not support the video tag.
         </video>
-        <p class="lead">Pablo Picasso once said that, "every act of creation is first an act of destruction".  I think its the other way around.</p>
         <br/>
       </div><!--container-->
     </div><!--wrap-->
@@ -67,13 +66,19 @@
       </div>
     </div>
 
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://code.jquery.com/jquery.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
-  
+    <!-- Include all compiled plugins (below), or include individual files as   needed -->
+    <script src="js/bootstrap.min.js"></script> 
+    <!--Tooltip-->
+    <script>
+      $(document).ready(function (){
+        $('.tooltip-use').tooltip({
+          selector: "[data-toggle=tooltip]",
+          container: "body"
+        })
+     });
+    </script> 
   </body>
 
 </html>

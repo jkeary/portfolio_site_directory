@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>James Keary</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="James Keary is a programmer in New York City">
+    <meta name="description" content="James Keary is a programmer in Washington DC">
     <link href="css/bootstrap.css" rel="stylesheet" />
     <link href="css/bootstrap-theme.css" rel="stylesheet" />
     <link href="css/steeze.css" rel="stylesheet" />
@@ -48,12 +48,24 @@
 
     <div id="wrap">
 
-      <div class="container" style="max-width:950px">
+      <div class="container" style="max-width:1100px">
         
         <div class="page-header-custom">
           <h1 class="text-left"><span class="glyphicon glyphicon-phone"></span> Programming</h1>
         </div>
         <br/>
+
+        <a href="java_synths.php">
+          <div class="projentry">
+            <div id="imgwrapper">
+              <img src="imgs/JSynProjsPic.png" class="img-responsive img-rounded" alt="Responsive image">
+            </div>
+            <div id="contentwrapper">
+              <h2>Java Synthesizers Applications</h2>
+              <p><a></a>These simple synthesizer web based applications were created in Java using <a href="http://www.softsynth.com/wire/" target="_tab">Wire</a>, a graphical patch editor, and <a href="http://www.softsynth.com/jsyn/" target="_tab">JSyn</a>, Java's audio synthesis API.</p>
+            </div>
+          </div>
+        </a>
 
         <a href="soni_gui_proj.php">
           <div class="projentry">
@@ -61,8 +73,8 @@
               <img src="imgs/interactivesonification.png" class="img-responsive img-rounded" alt="Responsive image">
             </div>
             <div id="contentwrapper">
-              <h2>Medical Imaging Sonification Software</h2>
-              <p><a></a>Interactive software I developed while working on the <a href="http://jameskeary.com/sonification_proj.php" target="_tab">Medical Imaging Sonification</a> research project at NYU Steinhardt.</p>
+              <h2>Medical Sonification Software in SuperCollider</h2>
+              <p><a></a>Interactive software I developed while working on the <a href="http://jameskeary.com/sonification_proj.php" target="_tab">Medical Imaging Sonification</a> research project at NYU Steinhardt.  Coding was done in SuperCollider, Csound, Matlab and C++ for this project.</p>
             </div>
           </div>
         </a>
@@ -73,36 +85,24 @@
               <img src="imgs/SievesProjPic.png" class="img-responsive img-rounded" alt="Responsive image">
             </div>
             <div id="contentwrapper">
-              <h2>A Musical Calculator Application</h2>
-              <p><a></a>This was my final project for the Java Music Systems class, Fall 2011, and my first real attempt at algorithmic composition.  The idea behind the project was to create a tool for the modern day composer: a musical calculator based on Greek stochastic composer <a href="http://www.iannis-xenakis.org/xen/index.html" target="_tab">Iannis Xenakis</a>'s sieve theory.  The project was written in Java with the JMSL API.</p>
+              <h2>Java Musical Calculator Application</h2>
+              <p><a></a>Written in Java, this is my first real attempt at algorithmic composition.  Based on Greek stochastic composer <a href="http://www.iannis-xenakis.org/xen/index.html" target="_tab">Iannis Xenakis</a>'s sieve theory, this web based application was written in Java, using the JMSL API.  The idea behind the project was to create a tool for the modern day composer: a musical calculator.</p>
             </div>
           </div>
         </a>     
-<!--
-        <a href="JSyn_Proj.php">
+
+        <a href="https://github.com/jkeary" target="_tab">
           <div class="projentry">
             <div id="imgwrapper">
-              <img src="imgs/JSynProjsPic.png" class="img-responsive img-rounded" alt="Responsive image">
+              <img src="https://og.github.com/octocat/github-octocat@1200x630.png" class="img-responsive img-rounded" alt="Responsive image" >
             </div>
             <div id="contentwrapper">
-              <h3>Java Synth Applets</h3>
-              <p><a href="JSyn_Proj.php"></a>These simple synthesizer applets were created over the course of a few class projects in my <a href="http://steinhardt.nyu.edu/music/technology/programs/graduate/courses/E85_2608" target="_tab">Java Music Systems</a> class at NYU, Fall 2011.  They were created in the Java programming language using <a href="http://www.softsynth.com/wire/" target="_tab">Wire</a>, a graphical patch editor, and <a href="http://www.softsynth.com/jsyn/" target="_tab">JSyn</a>, Java's audio synthesis API.</p>
+              <h2>My Github account</h2>
+              <p><a></a>Clicking this link will take you to my Github account.  This showcases my work in Digital Signal Processing algorithms, GUI design and development, and even the code for this website.  I am constantly updating my github account with new projects that I have worked on.</p>
             </div>
           </div>
         </a>
 
-        <a href="JScore_Proj.php">
-          <div class="projentry">
-            <div id="imgwrapper">
-              <img src="imgs/JSMLScoreProjPic.png" class="img-responsive img-rounded" alt="Responsive image">
-            </div>
-            <div id="contentwrapper">
-              <h3>JMSL JScore Applet</h3>
-              <p><a href="http://www.algomusic.com/index.html" target="_tab">Java Music Specification Language</a> is a Java API created by Phil Burk and <a href="http://didkovsky.com/" target="_tab">Nick Didkovsky</a>, my Java Music Systems class professor at NYU, Fall 2011.  Professor Didkovski was one of the more inspiring teachers I had at the program.  For this project, I used JSyn Synth patches from a previous project as the instruments for a piece scored in JMSL.</p>
-            </div>
-          </div>
-        </a>
--->
         </div>
     </div>
     <br/>

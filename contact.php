@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>James Keary</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="James Keary is a freelance a software programmer and web designer with expertise in audio, a sound designer, and an independent musician based out of Washington DC">
     <link href="css/bootstrap.css" rel="stylesheet" />
     <link href="css/bootstrap-theme.css" rel="stylesheet" />
     <link href="css/steeze.css" rel="stylesheet" />
@@ -62,7 +63,7 @@
           </div>
           <div class="col-xs-3">  
             <script type="text/javascript" src="http://www.skypeassets.com/i/scom/js/skype-uri.js"></script>
-              <div id="SkypeButton_Call_jameskeary_1" data-toggle="tooltip" data-placement="left" title="Skype Me">
+              <div id="SkypeButton_Call_jameskeary_1" data-toggle="tooltip" data-placement="bottom" title="Skype Me">
                 <script type="text/javascript">
                   Skype.ui({
                     "name": "call",

@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -5,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>James Keary</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="James Keary is a musician in New York City">
+    <meta name="description" content="James Keary is a musician, songwriter and composer in Washington DC">
     <link href="css/bootstrap.css" rel="stylesheet" />
     <link href="css/bootstrap-theme.css" rel="stylesheet" />
     <link href="css/steeze.css" rel="stylesheet" />
@@ -47,7 +48,7 @@
     </div>
 
     <div id="wrap">
-      <div class="container">   
+      <div class="container" style="max-width:1000px">   
 
         <div class="page-header-custom">
           <h1 class="text-left"><span class="glyphicon glyphicon-music"></span> Music</h1>
@@ -55,6 +56,18 @@
 
         <br/>
         
+        <a href="https://soundcloud.com/jameskeary" target="_blank">
+          <div class="projentry">
+            <div id="imgwrapper">
+              <img src="imgs/balloons_JesseGarrisonPic.jpg" class="img-responsive img-rounded" alt="Responsive image">
+            </div>
+            <div id="contentwrapper">
+              <h2>Solo Compositions</h2>
+              <p><a></a>A collection of solo songs I have composed, recorded and or produced for various different projects over the past few years.  Clicking this link will take you to my Soundcloud account.</p>
+            </div>
+          </div>
+        </a>
+
         <a href="http://miniboone.com/" target="_blank">
           <div class="projentry">
             <div id="imgwrapper">
@@ -79,8 +92,22 @@
           </div>
         </a>  
 
+        <a href="http://www.jameskeary.com/docs/CV_2014.pdf" target="_tab">
+          <div class="projentry">
+            <div id="imgwrapper">
+              <img src="http://images2.layoutsparks.com/1/194842/music-160-notes-song.jpg" class="img-responsive img-rounded" alt="Responsive image">
+            </div>
+            <div id="contentwrapper">
+              <h2>Musical Credits</h2>
+              <p><a></a>For a full listing of my musical credits, including tv and film placements, recordings and multimedia productions, check out my CV.</p>
+            </div>
+          </div>
+        </a>  
+
       </div> <!--container-->   
     </div> <!--wrap-->
+
+    <br/>
 
     <div id="footer">
       <div class="container">

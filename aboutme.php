@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>James Keary</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="James Keary is a freelance sound designer, a web designer and software programmer, an audio consultant and a musician in New York City">
+    <meta name="description" content="James Keary is a freelance a software programmer and web designer with expertise in audio, a sound designer, and an independent musician based out of Washington DC">
     <link href="css/bootstrap.css" rel="stylesheet" />
     <link href="css/bootstrap-theme.css" rel="stylesheet" />
     <link href="css/steeze.css" rel="stylesheet" />
@@ -56,8 +56,8 @@
         <br/>
         <div>
           <p class="lead">
-            <img class="rightimg_md img-responsive img-rounded" src="./imgs/me2_2014_05_02.jpg" align="right"/>
-            I am a programmer, sound designer, and an independent artist.  I studied digital signal processing (DSP), audio programming and electronics at NYU, where I received a <a href="http://steinhardt.nyu.edu/music/technology/programs/graduate/" target="_tab">Masters in Music Technology</a>.  <a href="http://steinhardt.nyu.edu/music/technology/research/masters_theses" target="_tab">My thesis work</a> was on virtual surround sound microphone design, using <a href="http://www.ambisonic.net/" target="_tab">Ambisonics</a> and DSP.  I have programming experience in web development, software development, and audio algorithms.  I am also an independent musician and composer.  I cut my teeth for 4 years as founding member of the New York indie band <a href="http://www.miniboone.com" target="_tab">Miniboone</a>, have been commissioned to write and record for commercials, produced and written songs for other musical artists, and even have songs placed in film and video.  <a href="http://www.jameskeary.com/docs/CV_2014.pdf" target="_tab">Here</a> is my CV.  Feel free to contact me at <a href="mailto:jkeary@gmail.com" target="_blank">jkeary@gmail.com</a> for work.
+            <img class="rightimg_md img-responsive img-rounded" src="./imgs/me2_2014_05_02_comp.jpg" align="right"/>
+            I am a programmer, sound designer, and an independent artist.  As a programmer, I have experience in UI programming, web development, and digital signal processing, all with an expertise in audio.  I studied digital signal processing (DSP), audio programming and electronics at NYU, where I received a <a href="http://steinhardt.nyu.edu/music/technology/programs/graduate/" target="_tab">Masters in Music Technology</a>.  <a href="http://steinhardt.nyu.edu/music/technology/research/masters_theses" target="_tab">My thesis work</a> was on virtual surround sound microphone design, using <a href="http://www.ambisonic.net/" target="_tab">Ambisonics</a> and DSP.  I am also an independent musician, songwriter and composer, with 4 years as a founding member of the New York indie band <a href="http://www.miniboone.com" target="_tab">Miniboone</a>, several commissioned pieces for commercials and video, produced and written songs for other musical artists, and even have had songs placed in film and video.  <a href="http://www.jameskeary.com/docs/CV_2014.pdf" target="_tab">Here</a> is my CV.  Feel free to contact me at <a href="mailto:jkeary@gmail.com" target="_blank">jkeary@gmail.com</a> for work.
           </p> 
         </div>
                     

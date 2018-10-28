@@ -48,7 +48,7 @@
     <div id="wrap">
       <div class="container">
         <div class="page-header-custom">
-          <h1 class="text-left"><a href="./videographer.php" data-toggle="tooltip" data-placement="bottom" title="back to video page"cc><span class="glyphicon glyphicon-facetime-video"></span></a> The Epicurean</h1>
+          <h1 class="text-left"><a href="./videographer.php" data-toggle="tooltip" data-placement="bottom" title="back to video page"><span class="glyphicon glyphicon-facetime-video"></span></a> The Epicurean</h1>
         </div>
         <p class="lead_md">Pablo Picasso once said that, "every act of creation is first an act of destruction".  I think its the other way around.  Stop motion animation project, Advanced Digital Video Editing 2006, Oberlin College.</p>
         <video width="50%" height="auto" class="center_video" controls>
@@ -56,7 +56,7 @@
           <source src="./video/The_Epicurean_640x480px_SD.ogg" type="video/ogg">
           Your browser does not support the video tag.
         </video>
-        <br/>
+
       </div><!--container-->
     </div><!--wrap-->
 

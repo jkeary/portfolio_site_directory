@@ -66,7 +66,7 @@ public void stop()
     {
     	MyEnvelopedSawTritoImpApplet applet = new MyEnvelopedSawTritoImpApplet();
 	AppletFrame frame = new AppletFrame("Play a SynthNote", applet);
-	frame.setSize(600, 400);
+	frame.setSize(400, 400);
 	frame.show();
 /* Begin test after frame opened so that DirectSound will use Java window. */
 	frame.test(); // short for applet.init(); applet.start();

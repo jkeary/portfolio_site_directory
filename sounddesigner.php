@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>James Keary</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="James Keary is a sound designer in New York City">
+    <meta name="description" content="James Keary is a sound designer in Washington DC">
     <link href="css/bootstrap.css" rel="stylesheet" />
     <link href="css/bootstrap-theme.css" rel="stylesheet" />
     <link href="css/steeze.css" rel="stylesheet" />
@@ -54,6 +54,18 @@
           <h1 class="text-left"><span class="glyphicon glyphicon-headphones"></span> Sound Designer</h1>
         </div>
         <br/>
+
+        <a href="engine.php">
+          <div class="projentry">
+            <div id="imgwrapper">
+              <img src="imgs/Pd_engine_pic.png" class="img-responsive img-rounded" alt="Responsive image">
+            </div>
+            <div id="contentwrapper">
+              <h2>Physical Model of Car Engine</h2>
+              <p><a></a>Project for Game Audio class, Spring 2013, NYU MTech.  Physical Model of 4 cylendar car engine made in Pure Data.</p>
+            </div>
+          </div>
+        </a>   
 
         <a href="sonification_proj.php">
           <div class="projentry">

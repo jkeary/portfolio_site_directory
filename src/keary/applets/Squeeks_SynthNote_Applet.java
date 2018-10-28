@@ -37,6 +37,7 @@ public void init() {
 /* Create a SoundTester panel and add to layout */
 		SoundTester soundTesterPanel = new SoundTester(mySynthNote);
 		add(soundTesterPanel);
+
 		
 /* Connect oscillator to both channels of stereo player. */
 		mySynthNote.output.connect( 0, myOut.input, 0 );

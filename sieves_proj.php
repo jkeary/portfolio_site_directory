@@ -62,15 +62,15 @@
             			<span class="sr-only">Close</span>
             		</button>    
             		<div class="panel-heading"> 			        			
-						<h4 class="panel-title"><a data-toggle="collapse"data-parent="#accordion" href="#collapseOne">Having problems running this application?</a></h4>
-                   	</div>                     
-                   	<div id="collapseOne" class="panel-collapse collapse">                         
-                    		<div class="panel-body">
-                      		 	- <b>This application works best on Safari and Firefox</b><br/>
-                      		 	- <b>If you're getting the Error Message <i>Application blocked by Security Settings</i></b> then you need to set your computer's Java Security Level setting to Medium.  On a mac, go to System Preferences -> Java -> Security, to change the setting.  I'm not sure how to do it on a PC, but I am assuming its similar.
-						</div>
-					</div>                 
-				</div>                   
+						  <h4 class="panel-title"><a data-toggle="collapse"data-parent="#accordion" href="#collapseOne">Having problems running this application?</a></h4>
+              </div>                     
+               	<div id="collapseOne" class="panel-collapse collapse">                         
+              		<div class="panel-body">
+                    - <b>This application works best on Safari and Firefox</b><br/>
+                    - <b>If you're getting the Error Message <i>Application blocked by Security Settings</i></b> then you need to set your computer's Java Security Level setting to Medium.  On a mac, go to System Preferences -> Java -> Security, to change the setting.  I'm not sure how to do it on a PC, but I am assuming its similar.
+						      </div>
+					      </div>                 
+				      </div>                   
             </div> <!--accordian-->	
 
             <p>

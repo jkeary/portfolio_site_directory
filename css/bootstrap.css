@@ -276,8 +276,8 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.428571429;
-  color: #333;
-  background-color: #fff;
+  color: #96aab0;
+  background-color: #24292e;
 }
 input,
 button,
@@ -295,7 +295,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #44ccf5; /* bright cyan */
+  color: #556B2F; /* dark olive */
 }
 a:focus {
   outline: thin dotted;

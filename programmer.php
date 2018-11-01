@@ -51,9 +51,45 @@
       <div class="container" style="max-width:1100px">
         
         <div class="page-header-custom">
-          <h1 class="text-left"><span class="glyphicon glyphicon-phone"></span> Programming</h1>
+          <h1 class="text-left"><span class="glyphicon glyphicon-phone"></span> Software Engineer</h1>
         </div>
         <br/>
+
+        <a href="https://www.crowdskout.com" target="_blank">
+          <div class="projentry">
+            <div id="imgwrapper">
+              <img src="imgs/crowdskout.png" class="img-responsive img-rounded" alt="Responsive image">
+            </div>
+            <div id="contentwrapper">
+              <h2>Crowdskout</h2>
+              <p><a></a>Currently I work for the tech start-up Crowdskout in Washington DC.  For a list of my duties including technologies I use on a daily basis, please take a look at my <a href="docs/Resume.pdf" target="_tab">resume</a>.</p>
+            </div>
+          </div>
+        </a>
+
+        <a href="www.modernnotion.com" target="_blank">
+          <div class="projentry">
+            <div id="imgwrapper">
+              <img src="imgs/modernnotiondesktop.png" class="img-responsive img-rounded" alt="Responsive image">
+            </div>
+            <div id="contentwrapper">
+              <h2>Modern Notion</h2>
+              <p><a></a>Modern Notion is a pop history and science website from 2014 - 2016.  I was sole developer for this project.  The front end was done in ReactJS with SCSS, and the back was built using Wordpress's PHP Framework.  Some of the image links unfortunately have been broken as this site has not been maintained due to lack of funding for the reporters.  However it does showcase my use of the React and Wordpress frameworks for web development.  Unfortunately since I built this site for my current employeer I cannot publish my code on github.</p>
+            </div>
+          </div>
+        </a>
+
+        <a href="https://github.com/crowdskout/crowdskout-wp" target="_blank">
+          <div class="projentry">
+            <div id="imgwrapper">
+              <img src="imgs/wordpress.png" class="img-responsive img-rounded" alt="Responsive image">
+            </div>
+            <div id="contentwrapper">
+              <h2>Crowdskout Wordpress Plugin</h2>
+              <p><a></a>Developed the Crowdskout Wordpress plugin for my current employeer, Crowdskout.  It was an early version of the tracking code that is now part of the Crowdskout Web Application.  This code was written in PHP and Javascript using the Wordpress PHP framework and the SVN code management tool.  This plugin is now defunct.</p>
+            </div>
+          </div>
+        </a>
 
         <a href="java_synths.php">
           <div class="projentry">

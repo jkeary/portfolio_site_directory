@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>James Keary</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="James Keary is a freelance a software programmer and web designer with expertise in audio, a sound designer, and an independent musician based out of Washington DC">
+    <meta name="description" content="James Keary is a software engineer with expertise in audio and an musician based out of Washington DC">
     <link href="css/bootstrap.css" rel="stylesheet" />
     <link href="css/bootstrap-theme.css" rel="stylesheet" />
     <link href="css/steeze.css" rel="stylesheet" />
@@ -43,7 +43,7 @@
               <a href="./programmer.php">
                 <span class="glyphicon glyphicon-phone glyphicon-index"></span>
                 <br/>
-                <h2 class="small">Programmer</h2>
+                <h2 class="small">Software Engineer</h2>
               </a>
             </center>
           </div>
@@ -82,7 +82,7 @@
           </div>
           <div class="col-xs-4">
             <center>
-              <button type="button" class="btn btn-fake" rel="popover" data-container="body" data-toggle="popover" data-placement="left" data-html="true" data-content="<ul><li><a href='./docs/Resume2018.pdf' target='_tab'><span class='glyphicon glyphicon-file'></span> Resume</a></li><li><a href='./publications.php'><span class='glyphicon glyphicon-folder-close'></span> Publications</a></li><li><a href='./presentations.php'><span class='glyphicon glyphicon-folder-close'></span> Presentations</a></li></ul>">
+              <button type="button" class="btn btn-fake" rel="popover" data-container="body" data-toggle="popover" data-placement="left" data-html="true" data-content="<ul><li><a href='./docs/Resume.pdf' target='_tab'><span class='glyphicon glyphicon-file'></span> Resume</a></li><li><a href='./publications.php'><span class='glyphicon glyphicon-folder-close'></span> Publications</a></li><li><a href='./presentations.php'><span class='glyphicon glyphicon-folder-close'></span> Presentations</a></li></ul>">
                 <span class="glyphicon glyphicon-folder-close glyphicon-index"></span>
                 <br/>
                 <h2 class="small">Documents</h2>

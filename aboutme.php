@@ -35,7 +35,7 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-folder-close"></span> Docs<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="./docs/CV_2014.pdf" target="_tab"><span class="glyphicon glyphicon-file"></span> CV</a></li>
+                <li><a href="./docs/Resume.pdf" target="_tab"><span class="glyphicon glyphicon-file"></span> Resume</a></li>
                 <li><a href="./publications.php"><span class="glyphicon glyphicon-folder-close"></span> Publications</a></li>
                 <li><a href="./presentations.php"><span class="glyphicon glyphicon-folder-close"></span> Presentations</a></li>
               </ul>
@@ -56,11 +56,11 @@
         <br/>
         <div>
           <p class="lead">
-            <img class="rightimg_md img-responsive img-rounded" src="./imgs/frend.png" align="right"/>
+            <img class="rightimg_md img-responsive img-rounded" src="./imgs/frend.jpg" align="right"/>
             Currently, I am a Software Engineer at Crowdskout in Washington DC with experience as a Full Stack, Back End and Front End Engineer throughout my tenure there. I have 4 years work experience in the Software Development field, and 2 in the Research and Audio Programming field. Prior to my work at Crowdskout, I attended New York University, Steinhardt where I received my <a href="http://steinhardt.nyu.edu/music/technology/programs/graduate/" target="_tab">Masters in Music</a>, Music Technology degree. While there I studied Digital Signal Processing and Audio Programming, and worked as a Research Assistant and Programmer on a Medical Sonification Project in conjunction with the NYU Langone Medical Center.
-
-            I am also a musician/songwriter.  My current project is the DC Rock band <a href="https://frendtheband.bandcamp.com" target="_blank">Frend</a>.  Previously I was a founding member of the NYC Rock group <a href="https://miniboone.bandcamp.com" target="_blank">Miniboone</a>, several commissioned pieces for commercials and video, produced and written songs for other musical artists, and even have had songs placed in film and video.  <a href="http://www.jameskeary.com/docs/CV_2014.pdf" target="_tab">Here</a> is my CV.  
-
+            <br>
+            I am also a musician/songwriter.  My current project is the DC Rock band <a href="https://frendtheband.bandcamp.com" target="_blank">Frend</a>.  Previously I was a founding member of the NYC Rock group <a href="https://miniboone.bandcamp.com" target="_blank">Miniboone</a>, several commissioned pieces for commercials and video, produced and written songs for other musical artists, and even have had songs placed in film and video.  
+            <br>
             Here is my current <a href="./docs/Resume2018.pdf" align="right"/>resume</a>.  Feel free to contact me at <a href="mailto:jkeary@gmail.com" target="_blank">jkeary@gmail.com</a> for whatever!
           </p> 
         </div>

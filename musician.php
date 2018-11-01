@@ -73,7 +73,7 @@
               <img src="imgs/frendlive.jpg" class="img-responsive img-rounded" alt="Responsive image">
             </div>
             <div id="contentwrapper">
-              <h2>Frend the band</h2>
+              <h2>Frend</h2>
               <p><a></a>Frend is a rock band from Washington DC that I started last year.  Check us out!</p>
             </div>
           </div>
@@ -85,7 +85,7 @@
               <img src="imgs/miniboone.png" class="img-responsive img-rounded" alt="Responsive image">
             </div>
             <div id="contentwrapper">
-              <h2>Miniboone : Singer, Songwriter, Musician, Performer</h2>
+              <h2>Miniboone</h2>
               <p><a></a>From September 2009 to January 2014, I was an active member of the touring and recording New York based indie band, Miniboone.</p>
             </div>
           </div>

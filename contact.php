@@ -110,7 +110,7 @@
 
     <div id="footer">
       <div class="container">
-        <p class="text-muted text-center">Site by James Keary &#169 2014</p>
+        <p class="text-muted text-center">Site by James Keary &#169 2018</p>
       </div>
     </div>
     

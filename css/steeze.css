@@ -53,7 +53,7 @@ h1.maintitle a {
   -webkit-transition: color 0.75s ease-out;
 }
 h1.maintitle a:hover {
-  color:  #556B2F; /* dark olive */
+  color: #00BFFF; /* deepsky blue */
 }
 
 .boxsize,
@@ -123,13 +123,13 @@ div.projentry div#contentwrapper {
 }
 div.projentry div#contentwrapper h2 {
   margin-top: 0;
-  color: #556B2F; /* dark olive */
+  color: #00BFFF; /* deepsky blue */
 }
 div.projentry:hover {
   background: rgba(0, 0, 0, 0.05);
 }
 div.projentry:hover div#contentwrapper p {
-  color: #556B2F; /* dark olive */
+  color:  #00BFFF; /* deepsky blue */
   transition: color 0.2s ease-out;
   -webkit-transition: color 0.2s ease-out;
 }
@@ -396,7 +396,7 @@ div.videowrapper {
 .btn-fake:active,
 .btn-fake.active,
 .open .dropdown-toggle.btn-fake {
-  color: #556B2F; /* olive green */
+  color: #00BFFF; /* deepsky blue */
   border-color: #24292e;
   transition: color 0.15s ease-out;
   -webkit-transition: color 0.75s ease-out;

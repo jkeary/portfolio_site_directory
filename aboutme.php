@@ -56,8 +56,12 @@
         <br/>
         <div>
           <p class="lead">
-            <img class="rightimg_md img-responsive img-rounded" src="./imgs/me2_2014_05_02_comp.jpg" align="right"/>
-            I am a programmer, sound designer, and an independent artist.  As a programmer, I have experience in UI programming, web development, and digital signal processing, all with an expertise in audio.  I studied digital signal processing (DSP), audio programming and electronics at NYU, where I received a <a href="http://steinhardt.nyu.edu/music/technology/programs/graduate/" target="_tab">Masters in Music Technology</a>.  <a href="http://steinhardt.nyu.edu/music/technology/research/masters_theses" target="_tab">My thesis work</a> was on virtual surround sound microphone design, using <a href="http://www.ambisonic.net/" target="_tab">Ambisonics</a> and DSP.  I am also an independent musician, songwriter and composer, with 4 years as a founding member of the New York indie band <a href="http://www.miniboone.com" target="_tab">Miniboone</a>, several commissioned pieces for commercials and video, produced and written songs for other musical artists, and even have had songs placed in film and video.  <a href="http://www.jameskeary.com/docs/CV_2014.pdf" target="_tab">Here</a> is my CV.  Feel free to contact me at <a href="mailto:jkeary@gmail.com" target="_blank">jkeary@gmail.com</a> for work.
+            <img class="rightimg_md img-responsive img-rounded" src="./imgs/frend.jpg" align="right"/>
+            Currently, I am a Software Engineer at Crowdskout in Washington DC with experience as a Full Stack, Back End and Front End Engineer throughout my tenure there. I have 4 years work experience in the Software Development field, and 2 in the Research and Audio Programming field. Prior to my work at Crowdskout, I attended New York University, Steinhardt where I received my <a href="http://steinhardt.nyu.edu/music/technology/programs/graduate/" target="_tab">Masters in Music, Music Technology degree. While there I studied Digital Signal Processing and Audio Programming, and worked as a Research Assistant and Programmer on a Medical Sonification Project in conjunction with the NYU Langone Medical Center.
+
+            I am also a musician/songwriter.  My current project is the DC Rock band <a href="https://frendtheband.bandcamp.com" target="_blank">Frend</a>.  Previously I was a founding member of the NYC Rock group <a href="https://miniboone.bandcamp.com" target="_blank">Miniboone</a>, several commissioned pieces for commercials and video, produced and written songs for other musical artists, and even have had songs placed in film and video.  <a href="http://www.jameskeary.com/docs/CV_2014.pdf" target="_tab">Here</a> is my CV.  
+
+            Here is my current <img class="rightimg_md img-responsive img-rounded" src="./docs/Resume2018.pdf" align="right"/>resume</a>.  Feel free to contact me at <a href="mailto:jkeary@gmail.com" target="_blank">jkeary@gmail.com</a> for whatever!
           </p> 
         </div>
                     
@@ -69,7 +73,7 @@
 
     <div id="footer">
       <div class="container">
-        <p class="text-muted text-center">Site by James Keary &#169 2014 | <a class="btn btn-xs btn-info" href="./contact.php" role="button">Contact Me</a></p>
+        <p class="text-muted text-center">Site by James Keary &#169 2018 | <a class="btn btn-xs btn-info" href="./contact.php" role="button">Contact Me</a></p>
       </div>
     </div>
 

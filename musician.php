@@ -56,7 +56,7 @@
 
         <br/>
         
-        <a href="https://soundcloud.com/jameskeary" target="_blank">
+        <!-- <a href="https://soundcloud.com/jameskeary" target="_blank">
           <div class="projentry">
             <div id="imgwrapper">
               <img src="imgs/balloons_JesseGarrisonPic.jpg" class="img-responsive img-rounded" alt="Responsive image">
@@ -66,9 +66,20 @@
               <p><a></a>A collection of solo songs I have composed, recorded and or produced for various different projects over the past few years.  Clicking this link will take you to my Soundcloud account.</p>
             </div>
           </div>
+        </a> -->
+        <a href="https://frendtheband.bandcamp.com" target="_blank">
+          <div class="projentry">
+            <div id="imgwrapper">
+              <img src="imgs/frendlive.png" class="img-responsive img-rounded" alt="Responsive image">
+            </div>
+            <div id="contentwrapper">
+              <h2>Frend the band</h2>
+              <p><a></a>Frend is a rock band from Washington DC that I started last year.  Check us out!</p>
+            </div>
+          </div>
         </a>
 
-        <a href="http://miniboone.com/" target="_blank">
+        <a href="https://miniboone.bandcamp.com" target="_blank">
           <div class="projentry">
             <div id="imgwrapper">
               <img src="imgs/miniboone.png" class="img-responsive img-rounded" alt="Responsive image">
@@ -80,6 +91,18 @@
           </div>
         </a>
 
+        <!-- <a href="http://www.jameskeary.com/docs/CV_2014.pdf" target="_tab">
+          <div class="projentry">
+            <div id="imgwrapper">
+              <img src="http://images2.layoutsparks.com/1/194842/music-160-notes-song.jpg" class="img-responsive img-rounded" alt="Responsive image">
+            </div>
+            <div id="contentwrapper">
+              <h2>Musical Credits</h2>
+              <p><a></a>For a full listing of my musical credits, including tv and film placements, recordings and multimedia productions, check out my CV.</p>
+            </div>
+          </div>
+        </a>   -->
+
         <a href="http://vimeo.com/48551367" target="_blank">
           <div class="projentry">
             <div id="imgwrapper">
@@ -90,19 +113,7 @@
               <p><a></a>Freelance music composition work.  Music composed and recorded in Logic Pro.  Setpember 2009.</p>
             </div>
           </div>
-        </a>  
-
-        <a href="http://www.jameskeary.com/docs/CV_2014.pdf" target="_tab">
-          <div class="projentry">
-            <div id="imgwrapper">
-              <img src="http://images2.layoutsparks.com/1/194842/music-160-notes-song.jpg" class="img-responsive img-rounded" alt="Responsive image">
-            </div>
-            <div id="contentwrapper">
-              <h2>Musical Credits</h2>
-              <p><a></a>For a full listing of my musical credits, including tv and film placements, recordings and multimedia productions, check out my CV.</p>
-            </div>
-          </div>
-        </a>  
+        </a> 
 
       </div> <!--container-->   
     </div> <!--wrap-->
@@ -111,7 +122,7 @@
 
     <div id="footer">
       <div class="container">
-        <p class="text-muted text-center">Site by James Keary &#169 2014 | <a class="btn btn-xs btn-info" href="./contact.php" role="button">Contact Me</a></p>
+        <p class="text-muted text-center">Site by James Keary &#169 2018 | <a class="btn btn-xs btn-info" href="./contact.php" role="button">Contact Me</a></p>
       </div>
     </div>
 

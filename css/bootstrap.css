@@ -295,7 +295,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #556B2F; /* dark olive */
+  color: #00BFFF; /* deepsky blue */
 }
 a:focus {
   outline: thin dotted;

@@ -67,7 +67,7 @@
           </div>
         </a>
 
-        <a href="www.modernnotion.com" target="_blank">
+        <a href="http://www.modernnotion.com" target="_blank">
           <div class="projentry">
             <div id="imgwrapper">
               <img src="imgs/modernnotiondesktop.png" class="img-responsive img-rounded" alt="Responsive image">

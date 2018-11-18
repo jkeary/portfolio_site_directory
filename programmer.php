@@ -62,7 +62,7 @@
             </div>
             <div id="contentwrapper">
               <h2>Crowdskout</h2>
-              <p><a></a>Currently I work for the tech start-up Crowdskout in Washington DC.  For a list of my duties including technologies I use on a daily basis, please take a look at my <a href="docs/Resume.pdf" target="_tab">resume</a>.</p>
+              <p><a></a>Crowdskout is a tech start up in Washington DC and is where I currently work as a Software Engineer.  We   For a list of my duties including technologies I use on a daily basis, please take a look at my <a href="docs/Resume.pdf" target="_tab">resume</a>.</p>
             </div>
           </div>
         </a>
@@ -91,7 +91,7 @@
           </div>
         </a>
 
-        <a href="java_synths.php">
+        <!-- <a href="java_synths.php">
           <div class="projentry">
             <div id="imgwrapper">
               <img src="imgs/JSynProjsPic.png" class="img-responsive img-rounded" alt="Responsive image">
@@ -101,7 +101,7 @@
               <p><a></a>These simple synthesizer web based applications were created in Java using <a href="http://www.softsynth.com/wire/" target="_tab">Wire</a>, a graphical patch editor, and <a href="http://www.softsynth.com/jsyn/" target="_tab">JSyn</a>, Java's audio synthesis API.</p>
             </div>
           </div>
-        </a>
+        </a> -->
 
         <a href="soni_gui_proj.php">
           <div class="projentry">
@@ -115,7 +115,7 @@
           </div>
         </a>
 
-        <a href="sieves_proj.php">
+      <!--   <a href="sieves_proj.php">
           <div class="projentry">
             <div id="imgwrapper">
               <img src="imgs/SievesProjPic.png" class="img-responsive img-rounded" alt="Responsive image">
@@ -125,7 +125,7 @@
               <p><a></a>Written in Java, this is my first real attempt at algorithmic composition.  Based on Greek stochastic composer <a href="http://www.iannis-xenakis.org/xen/index.html" target="_tab">Iannis Xenakis</a>'s sieve theory, this web based application was written in Java, using the JMSL API.  The idea behind the project was to create a tool for the modern day composer: a musical calculator.</p>
             </div>
           </div>
-        </a>     
+        </a>     --> 
 
         <a href="https://github.com/jkeary" target="_tab">
           <div class="projentry">

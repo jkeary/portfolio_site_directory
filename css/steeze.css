@@ -68,17 +68,17 @@ a.projentrylink {
   text-decoration: none;
 }
 a.projentrylink:link {
-  color: inherit;
+  color: #96b09c;
   text-decoration: none;
 }
 /* unvisited link */
 a.projentrylink:visited {
-  color: inherit;
+  color: #96b09c;
   text-decoration: none;
 }
 /* visited link */
 a.projentrylink:hover {
-  color: inherit;
+  color: #96b09c;
   text-decoration: none;
 }
 /* mouse over link */

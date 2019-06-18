@@ -48,12 +48,12 @@ h1.maintitle {
 }
 h1.maintitle a {
   color: inherit;
-  text-decoration: none;
+  opacity: 0.6;
   transition: color 0.15s ease-out;
   -webkit-transition: color 0.75s ease-out;
 }
 h1.maintitle a:hover {
-  color: #00BFFF; /* deepsky blue */
+  opacity: 1;
 }
 
 .boxsize,
@@ -68,7 +68,7 @@ a.projentrylink {
   text-decoration: none;
 }
 a.projentrylink:link {
-  color: #96b09c;
+  color: #96AB12;
   text-decoration: none;
 }
 /* unvisited link */
@@ -337,9 +337,18 @@ img.rightimg_sm{
 }
 
 img.rightimg_md{
-  max-width:250px;
+  max-width: 250px;
   margin-left: 30px;
   margin-bottom: 15px;
+  border: 1px solid #c0c0c0;
+  padding: 6px;
+  float:right;
+}
+
+img.rightimg_lg{
+  max-width: 500px;
+  margin-left: 30px;
+  margin-bottom: 30px;
   border: 1px solid #c0c0c0;
   padding: 6px;
   float:right;

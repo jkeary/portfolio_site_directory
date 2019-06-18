@@ -56,8 +56,8 @@
         <br/>
         <div>
           <p class="lead">
-            <img class="rightimg_md img-responsive img-rounded" src="./imgs/frend.jpg" align="right"/>
-            Software Engineer with wide range of technical experiences.  Spent the past 4 years and 10 months coding for the Washington D.C. advocacy marketing start-up Crowdskout.  Backend work was done in PHP’s Laravel framework, using multiple database solutions such as MySQL, MongoDB and ElasticSearch, and other techs such as AWS, Resque queue manager with Redis DB, Jenkins task automation server, and Ansible script automation.  Front end work was done in Typescript, ES6, AngularJS, and SCSS using Grunt task runner, and the NPM package manager.  Local development was done on Linux OS and Vagrant Virtualbox using dev tools such as Postman, PhpStorm IDE, VSCode and Vim text editors, Filezilla, Git for code management, zshell, iterm, with Atlassian Agile organizational tools.  Used test driven and fault tolerant development principles. 
+            <img class="rightimg_lg img-responsive img-rounded" src="./imgs/frend.jpg" align="right"/>
+            I spent the past roughly 5 years as a Software Engineer for the Washington D.C. advocacy marketing start-up Crowdskout.  
             <br><br>
             Prior to my work at Crowdskout, I attended New York University, Steinhardt where I received my <a href="http://steinhardt.nyu.edu/music/technology/programs/graduate/" target="_tab">Masters in Music</a>, Music Technology degree. While there I studied Digital Signal Processing and Audio Programming, and worked as a Research Assistant and Programmer on a Medical Sonification Project in conjunction with the NYU Langone Medical Center.
             <br><br>

@@ -57,17 +57,21 @@
         <div>
           <p class="lead">
             <img class="rightimg_md img-responsive img-rounded" src="./imgs/frend.jpg" align="right"/>
-            Currently, I am a Software Engineer at Crowdskout in Washington DC with experience as a Full Stack, Back End and Front End Engineer throughout my tenure there. I have 4 years work experience in the Software Development field, and 2 in the Research and Audio Programming field. Prior to my work at Crowdskout, I attended New York University, Steinhardt where I received my <a href="http://steinhardt.nyu.edu/music/technology/programs/graduate/" target="_tab">Masters in Music</a>, Music Technology degree. While there I studied Digital Signal Processing and Audio Programming, and worked as a Research Assistant and Programmer on a Medical Sonification Project in conjunction with the NYU Langone Medical Center.
+            Software Engineer with wide range of technical experiences.  Spent the past 4 years and 10 months coding for the Washington D.C. advocacy marketing start-up Crowdskout.  Backend work was done in PHP’s Laravel framework, using multiple database solutions such as MySQL, MongoDB and ElasticSearch, and other techs such as AWS, Resque queue manager with Redis DB, Jenkins task automation server, and Ansible script automation.  Front end work was done in Typescript, ES6, AngularJS, and SCSS using Grunt task runner, and the NPM package manager.  Local development was done on Linux OS and Vagrant Virtualbox using dev tools such as Postman, PhpStorm IDE, VSCode and Vim text editors, Filezilla, Git for code management, zshell, iterm, with Atlassian Agile organizational tools.  Used test driven and fault tolerant development principles. 
+            <br><br>
+            Prior to my work at Crowdskout, I attended New York University, Steinhardt where I received my <a href="http://steinhardt.nyu.edu/music/technology/programs/graduate/" target="_tab">Masters in Music</a>, Music Technology degree. While there I studied Digital Signal Processing and Audio Programming, and worked as a Research Assistant and Programmer on a Medical Sonification Project in conjunction with the NYU Langone Medical Center.
             <br><br>
             I am also a musician/songwriter.  My current project is the DC Rock band <a href="https://frendtheband.bandcamp.com" target="_blank">Frend</a>.  Previously I was a founding member of the NYC Rock group <a href="https://miniboone.bandcamp.com" target="_blank">Miniboone</a>, several commissioned pieces for commercials and video, produced and written songs for other musical artists, and even have had songs placed in film and video.  
             <br><br>
-            Here is my current <a href="./docs/Resume2018.pdf" align="right"/>resume</a>.  Feel free to contact me at <a href="mailto:jkeary@gmail.com" target="_blank">jkeary@gmail.com</a> for whatever!
+            Here is my current <a href="./docs/Resume2019.pdf" align="right"/>software engineering resume</a>.  Feel free to contact me at <a href="mailto:jkeary@gmail.com" target="_blank">jkeary@gmail.com</a>.
           </p> 
         </div>
                     
       </div><!--container-->
 
       <br/>
+      
+      <div id="like_button_container"></div>
 
     </div><!--wrap-->
 
@@ -83,6 +87,14 @@
     <script src="https://code.jquery.com/jquery.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as   needed -->
     <script src="js/bootstrap.min.js"></script>   
+
+    <!-- Load React. -->
+    <!-- Note: when deploying, replace "development.js" with "production.min.js". -->
+    <script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
+
+    <!-- Load our React component. -->
+    <script src="like_button.js"></script>
   
   </body>
 

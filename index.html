@@ -11,11 +11,11 @@
     <link href="css/steeze.css" rel="stylesheet" />
   </head>
 
-  <video autoplay muted loop id="myVideo">
-    <source src="video/VID_20190611_153125.mp4" type="video/mp4">
-  </video>
-
   <body style="padding-top:0px">
+    <video autoplay muted loop id="myVideo">
+      <source src="video/VID_20190611_153125.mp4" type="video/mp4">
+    </video>
+    
     <button id="myBtn" onclick="myFunction()">Pause</button>
 
     <?php include_once("analyticstracking.php") ?>

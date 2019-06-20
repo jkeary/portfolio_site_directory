@@ -179,6 +179,36 @@ body {
   /* The html and body elements cannot have any padding or margin. */
 }
 
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+}
+
+/* Style the button used to pause/play the video */
+#myBtn {
+  width: 100px;
+  font-size: 18px;
+  font-family: Arial, sans-serif;
+  padding: 10px;
+  border: none;
+  background: transparent;
+  color: #96aab0;
+  cursor: pointer;
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+
+#myBtn:hover {
+  color: #00BFFF; /* deepsky blue */
+  border-color: #24292e;
+  transition: color 0.15s ease-out;
+  -webkit-transition: color 0.75s ease-out;
+}
+
 /* Wrapper for page content to push down footer */
 #wrap {
   min-height: 100%;
@@ -395,9 +425,8 @@ div.videowrapper {
 -------------------------------------------------- */
 
 .btn-fake {
-    color: #96aab0;;
-    background-color: #24292e;
-    border-color: #24292e;
+    color: #96aab0;
+    background-color: transparent;
     padding: 0px;
 }
 .btn-fake:hover,
@@ -406,7 +435,6 @@ div.videowrapper {
 .btn-fake.active,
 .open .dropdown-toggle.btn-fake {
   color: #00BFFF; /* deepsky blue */
-  border-color: #24292e;
   transition: color 0.15s ease-out;
   -webkit-transition: color 0.75s ease-out;
 }

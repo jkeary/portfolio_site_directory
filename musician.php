@@ -34,19 +34,19 @@
             </div>
             <div id="contentwrapper">
               <h2>Frend</h2>
-              <p><a></a>Frend is a rock band from Washington DC that I started last year.  Check us out!</p>
+              <p><a></a>Frend is my current project.  We play loud grungy rock music.  <a href="https://frendtheband.bandcamp.com" target="_blank">Click here for our bandcamp.</a></p>
             </div>
           </div>
         </a>
 
-        <a href="https://miniboone.bandcamp.com" target="_blank">
+        <a href="http://www.miniboone.com/" target="_blank">
           <div class="projentry">
             <div id="imgwrapper">
               <img src="imgs/miniboone.png" class="img-responsive img-rounded" alt="Responsive image">
             </div>
             <div id="contentwrapper">
               <h2>Miniboone</h2>
-              <p><a></a>From September 2009 to January 2014, I was an active member of the touring and recording New York based indie band, Miniboone.</p>
+              <p><a></a>From September 2009 to January 2014, I was member of the New York City indie rock band, Miniboone.</p>
             </div>
           </div>
         </a>
@@ -63,7 +63,7 @@
           </div>
         </a>   -->
 
-        <a href="http://vimeo.com/48551367" target="_blank">
+        <!-- <a href="http://vimeo.com/48551367" target="_blank">
           <div class="projentry">
             <div id="imgwrapper">
               <img src="imgs/CinemasiveDisplays.png" class="img-responsive img-rounded" alt="Responsive image">
@@ -73,7 +73,7 @@
               <p><a></a>Freelance music composition work.  Music composed and recorded in Logic Pro.  Setpember 2009.</p>
             </div>
           </div>
-        </a> 
+        </a> -->
 
       </div> <!--container-->   
     </div> <!--wrap-->

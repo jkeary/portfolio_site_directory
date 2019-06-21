@@ -1,7 +1,7 @@
 <?php require_once('header.php'); ?>
   <body>
     <?php include_once("analyticstracking.php") ?>
-    <?php include_once("fixednavbar.php") ?>
+    <?php include_once("navbar.php") ?>
 
     <div id="wrap">
       

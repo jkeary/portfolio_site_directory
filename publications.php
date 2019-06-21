@@ -21,11 +21,17 @@
               </tr>
             </thead>
             <tbody>
+            <tr>
+              <td>3</td>
+                <td><a href="http://steinhardt.nyu.edu/faculty_bios/view/Agnieszka_Roginska" target="_tab">Agnieszka Roginska</a>, Letizia Gionfrida, Hariharan Mohanraj, James Keary, <a href="http://www.med.nyu.edu/biosketch/friedk03" target="_tab">Kent Friedman</a></td>
+                <td><a href="./docs/ICAD2016_paper_23.pdf" target="_tab">The Triple Tone Sonification Method to Enhance the Diagnosis of Alzheimer's Dementia</a></td>
+                <td><a href="https://www.icad.org/" target="_tab">International Conference on Auditory Display (ICAD) 2016</a></td>
+              </tr>
               <tr>
                 <td>2</td>
                 <td><a href="http://steinhardt.nyu.edu/faculty_bios/view/Agnieszka_Roginska" target="_tab">Agnieszka Roginska</a>, Hariharan Mohanraj, James Keary, <a href="http://www.med.nyu.edu/biosketch/friedk03" target="_tab">Kent Friedman</a></td>
                 <td><a href="./docs/SONIFICATION METHOD TO ENHANCE THE DIAGNOSIS OF DEMENTIA.pdf" target="_tab">Sonification Method to Enhance the Diagnosis of Dementia</a></td>
-                <td><a href="http://steinhardt.nyu.edu/icad2014/" target="_tab">International Conference on Auditory Display (ICAD) 2014</a>, NY, NY, June 22-25 2014.</td>
+                <td><a href="https://www.icad.org/" target="_tab">International Conference on Auditory Display (ICAD) 2014</a>, NY, NY, June 22-25 2014.</td>
               </tr>
               <tr>
                 <td>1</td>

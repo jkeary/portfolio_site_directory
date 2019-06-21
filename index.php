@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>James Keary</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="James Keary is a software engineer with expertise in audio and an musician based out of Washington DC">
-    <link href="css/bootstrap.css" rel="stylesheet" />
-    <link href="css/bootstrap-theme.css" rel="stylesheet" />
-    <link href="css/steeze.css" rel="stylesheet" />
-  </head>
-
+<?php require_once('header.php'); ?>
   <body style="padding-top:0px">
     <video autoplay muted loop id="myVideo">
       <source src="video/VID_20190611_153125.mp4" type="video/mp4">

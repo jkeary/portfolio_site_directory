@@ -16,17 +16,6 @@
 
         <br/>
         
-        <!-- <a href="https://soundcloud.com/jameskeary" target="_blank">
-          <div class="projentry">
-            <div id="imgwrapper">
-              <img src="imgs/balloons_JesseGarrisonPic.jpg" class="img-responsive img-rounded" alt="Responsive image">
-            </div>
-            <div id="contentwrapper">
-              <h2>Solo Compositions</h2>
-              <p><a></a>A collection of solo songs I have composed, recorded and or produced for various different projects over the past few years.  Clicking this link will take you to my Soundcloud account.</p>
-            </div>
-          </div>
-        </a> -->
         <a href="https://frendtheband.bandcamp.com" target="_blank">
           <div class="projentry">
             <div id="imgwrapper">
@@ -47,6 +36,30 @@
             <div id="contentwrapper">
               <h2>Miniboone</h2>
               <p><a></a>From September 2009 to January 2014, I was member of the New York City indie rock band, Miniboone.</p>
+            </div>
+          </div>
+        </a>
+
+        <a href="https://soundcloud.com/jameskeary" target="_blank">
+          <div class="projentry">
+            <div id="imgwrapper">
+              <img src="imgs/balloons_JesseGarrisonPic.jpg" class="img-responsive img-rounded" alt="Responsive image">
+            </div>
+            <div id="contentwrapper">
+              <h2>Solo Compositions</h2>
+              <p><a></a>A collection of solo songs I have composed, recorded and or produced for various different projects over the past few years.  Clicking this link will take you to my Soundcloud account.</p>
+            </div>
+          </div>
+        </a>
+
+        <a href="https://soundcloud.com/sonisounds" target="_blank">
+          <div class="projentry">
+            <div id="imgwrapper">
+              <img src="imgs/brainlogic.png" class="img-responsive img-rounded" alt="Responsive image">
+            </div>
+            <div id="contentwrapper">
+              <h2>Brain Scan Music Composition</h2>
+              <p><a></a>Stocastic music compositions of Alzheimer's disease PET brain scan data sets.  In this sonification technique, the level of gamma radiation intensity is quantized to 4 regions for 4 different instruments, and the pitch of the instruments are mapped to the y-axis. For scanning mode, the y-axis is mapped to time. For simultaneous mode, all notes play for an arbitrarily chosen amount of time. These sonifications were created using the audio programming language Csound, the midi library of orchestral sounds Garritan with its plugin Aria Player, and the Logic Pro digital audio workstation.</p>
             </div>
           </div>
         </a>

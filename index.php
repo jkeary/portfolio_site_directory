@@ -17,7 +17,7 @@
         
         <div class="row">
           <div class="col-lg-12">  
-            <p style="text-align:center">Welcome to my portfolio website.  Click anywhere to stop the madness.<p>
+            <p id="titleText" style="text-align:center">Welcome to my portfolio website.  Click anywhere to stop the madness.<p>
           </div>
         </div>
         
@@ -119,17 +119,17 @@
       // Get the video
       var video = document.getElementById("myVideo");
 
-      // Get the button
-      var btn = document.getElementById("myBtn");
+      // Get the title text
+      var titleText = document.getElementById("titleText");
 
       // Pause and play the video, and change the button text
       function myFunction() {
         if (video.paused) {
           video.play();
-          btn.innerHTML = "";
+          titleText.innerHTML = "Welcome to my portfolio website.  Click anywhere to stop the madness.";
         } else {
           video.pause();
-          btn.innerHTML = "";
+          titleText.innerHTML = "ahh, so much better...";
         }
       }
     </script>

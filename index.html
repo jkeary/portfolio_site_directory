@@ -16,7 +16,7 @@
       <source src="video/VID_20190611_153125.mp4" type="video/mp4">
     </video>
     
-    <button id="myBtn" onclick="myFunction()">Pause</button>
+    <button id="myBtn" onclick="myFunction()"></button>
 
     <?php include_once("analyticstracking.php") ?>
     <div id="wrap">
@@ -24,12 +24,12 @@
       <div class="container" style="max-width:800px">   
         
         <div class="page-header">
-          <h1 class="maintitle text-center"><a href="/">James Keary</a></h1>
+          <h1 class="maintitle text-center">James Keary</h1>
         </div>
         
         <div class="row">
           <div class="col-lg-12">  
-            <p style="text-align:center">Welcome to my portfolio website.<p>
+            <p style="text-align:center">Welcome to my portfolio website.  Click anywhere to stop the madness.<p>
           </div>
         </div>
         
@@ -138,10 +138,10 @@
       function myFunction() {
         if (video.paused) {
           video.play();
-          btn.innerHTML = "Pause";
+          btn.innerHTML = "";
         } else {
           video.pause();
-          btn.innerHTML = "Play";
+          btn.innerHTML = "";
         }
       }
     </script>

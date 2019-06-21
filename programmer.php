@@ -22,7 +22,7 @@
             </div>
             <div id="contentwrapper">
               <h2>Crowdskout</h2>
-              <p><a></a>Crowdskout is a tech start up in Washington DC and is where I currently work as a Software Engineer.  We   For a list of my duties including technologies I use on a daily basis, please take a look at my <a href="docs/Resume.pdf" target="_tab">resume</a>.</p>
+              <p><a></a>Crowdskout is a tech start up in Washington DC and is where I worked for the past 5 years as a Software Engineer.  For a list of my duties including technologies I use on a daily basis, please take a look at my <a href="docs/Resume2019.pdf" target="_tab">resume</a>.</p>
             </div>
           </div>
         </a>

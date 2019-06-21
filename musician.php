@@ -19,7 +19,7 @@
         <a href="https://frendtheband.bandcamp.com" target="_blank">
           <div class="projentry">
             <div id="imgwrapper">
-              <img src="imgs/frendlive.jpg" class="img-responsive img-rounded" alt="Responsive image">
+              <img src="imgs/frend-stuffed-animals.png" class="img-responsive img-rounded" alt="Responsive image">
             </div>
             <div id="contentwrapper">
               <h2>Frend</h2>

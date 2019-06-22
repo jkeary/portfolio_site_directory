@@ -27,14 +27,14 @@
           </div>
         </a>
 
-        <a href="http://www.modernnotion.com" target="_blank">
+        <a href="https://github.com/jkeary/modern-notion" target="_blank">
           <div class="projentry">
             <div id="imgwrapper">
               <img src="imgs/modernnotiondesktop.png" class="img-responsive img-rounded" alt="Responsive image">
             </div>
             <div id="contentwrapper">
               <h2>Modern Notion</h2>
-              <p><a></a>Modern Notion is a pop history and science website from 2014 - 2016.  I was sole developer for this project.  The front end was done in ReactJS with SCSS, and the back was built using Wordpress's PHP Framework.  Some of the image links unfortunately have been broken as this site has not been maintained due to lack of funding for the reporters.  However it does showcase my use of the React and Wordpress frameworks for web development.  Unfortunately since I built this site for my current employeer I cannot publish my code on github.</p>
+              <p><a></a>Modern Notion is a pop history and science website from 2014 - 2016.  I was sole developer for this project.  The front end was done in ReactJS with SCSS, and the back was built using Wordpress's PHP Framework.</p>
             </div>
           </div>
         </a>

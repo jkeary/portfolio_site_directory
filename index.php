@@ -29,7 +29,7 @@
               <a href="./sounddesigner.php">
                 <span class="glyphicon glyphicon-headphones glyphicon-index"></span>
                 <br/>
-                <h2 class="small">Sound Designer<h2/>
+                <h2 class="small"><span style="background-color: black">Sound Designer</span><h2/>
               </a></center>
             </div>
           <div class="col-xs-4">
@@ -37,7 +37,7 @@
               <a href="./programmer.php">
                 <span class="glyphicon glyphicon-phone glyphicon-index"></span>
                 <br/>
-                <h2 class="small">Software Engineer</h2>
+                <h2 class="small"><span style="background-color: black">Software Engineer</span></h2>
               </a>
             </center>
           </div>
@@ -46,7 +46,7 @@
               <a href="./musician.php">
                 <span class="glyphicon glyphicon-music glyphicon-index"></span>
                 <br/>
-                <h2 class="small">Musician</h2>
+                <h2 class="small"><span style="background-color: black">Musician</span></h2>
               </a>
             </center>
           </div>
@@ -61,7 +61,7 @@
               <a href="./videographer.php">
                 <span class="glyphicon glyphicon-facetime-video glyphicon-index"></span>
                 <br/>
-                <h2 class="small">Videographer</h2>
+                <h2 class="small"><span style="background-color: black">Videographer</span></h2>
               </a>
             </center>
           </div>
@@ -70,7 +70,7 @@
               <a href="./aboutme.php">
                 <span class="glyphicon glyphicon-user glyphicon-index"></span>
                 <br/>
-                <h2 class="small">About Me</h2>
+                <h2 class="small"><span style="background-color: black">About Me</span></h2>
               </a>
             </center>
           </div>
@@ -79,7 +79,7 @@
               <button type="button" class="btn btn-fake" rel="popover" data-container="body" data-toggle="popover" data-placement="left" data-html="true" data-content="<ul><li><a href='./docs/Resume2019.pdf' target='_tab'><span class='glyphicon glyphicon-file'></span> Software Engineer Resume</a></li><li><a href='./publications.php'><span class='glyphicon glyphicon-folder-close'></span> Publications</a></li><li><a href='./presentations.php'><span class='glyphicon glyphicon-folder-close'></span> Presentations</a></li></ul>">
                 <span class="glyphicon glyphicon-folder-close glyphicon-index"></span>
                 <br/>
-                <h2 class="small">Documents</h2>
+                <h2 class="small"><span style="background-color: black">Documents</span></h2>
               </button>
             </center>        
           </div>

@@ -12,7 +12,7 @@
       <div class="container" style="max-width:800px">   
         
         <div class="page-header">
-          <h1 class="maintitle text-center">James Keary</h1>
+          <h1 class="maintitle text-center"><span style="background-color: black; color: #008080">James Keary</span></h1>
         </div>
         
         <div class="row">

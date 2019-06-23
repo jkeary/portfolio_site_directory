@@ -15,7 +15,7 @@
 
         <div class="row">
           <div class="col-lg-9">  
-            <h4>If you need work done in the following fields, email at <a href="mailto:jkeary@gmail.com" target="_blank">jkeary@gmail.com</a></h4>
+            If you need work done in the following fields or with the following or similar techs, email at <a href="mailto:jkeary@gmail.com" target="_blank">jkeary@gmail.com</a>.
           </div>
           <!-- <div class="col-xs-3">  
             <script type="text/javascript" src="http://www.skypeassets.com/i/scom/js/skype-uri.js"></script>
@@ -34,16 +34,19 @@
 
         <div class="row">  
           <div class="col-sm-4">  
-            <h3 margin="10px 0">Web Software Engineer</h3>   
-            <p margin="10px 0 10px 0" style="text-align:left">PHP, Laravel, Javascript, JQuery, AngularJS, ReactJS, Wordpress PHP, Mysql, MongoDB, Redis, HTML, CSS, SCSS, SASS, Git, SVN, Vim, Postman, Linux, OAuth, Jenkins, ETL, Unit Testing, Mobile First Development, Functional Testing, API Developmentm Fault Tolenant Systems, Vagrant, AWS, PHPStorm</p>  
+            <h3 margin="10px 0">Web</h3>   
+            <h5 margin="10px 0 10px 0" style="text-align:left">Software Engineer, Front End, Back End, Database or Full Stack Engineer;</h5><p margin="10px 0 10px 0" style="text-align:left"> PHP, Laravel, Javascript, AngularJS, Typescript, ES6, ReactJS, Wordpress PHP, JQuery,  Mysql, MongoDB, Redis, Phython, HTML, CSS, SCSS, SASS, Git, SVN, Vim, Postman, Linux, OAuth, Jenkins, Ansible, ETL, Unit Testing, Mobile First Development, Responsive Design, Functional Testing, API Developmentm Fault Tolenant Systems, Vagrant, AWS</p>  
           </div>  
           <div class="col-sm-4">  
-            <h3 margin="10px 0">Audio Software Engineer</h3>   
-            <p margin="10px 0 10px 0" style="text-align:left">C, Java, MatLab, HTML, CSS, JavaScript, JQuery, JMSL, Jsyn, Web Audio API, SuperCollider, Pure Data, Digital Audio, Acoustics, Digital Signal Processing, Logic Pro, Ableton Live, Pro Tools, Reaper, FMod Designer, Unreal Development Kit, Unreal Scripting, Final Cut Studio</p>  
+            <h3 margin="10px 0">Audio</h3>   
+            <h5 margin="10px 0 10px 0" style="text-align:left">Sound Designer, Audio Engineer, Music Producer, Mixer, Acoustician, Radio Broadcast Technician, Live Rehearsal Engineer</h5>
+            <p margin="10px 0 10px 0" style="text-align:left">C, Java, MatLab, JMSL API, Jsyn API, Web Audio API, Pure Data, Digital Audio, Acoustics, Digital Signal Processing, Audio Codec Design, Logic Pro, Ableton Live, Pro Tools, Reaper, FMod Designer, Unreal Development Kit, Unreal Scripting, Final Cut Studio, Yamaha, SSL, API Mixing Consoles, Outboard Gear, Patch Bays, Sound Reinforcement Systems, Modular Synthesizers, Surround Sound, 3D Audio, Virtual Audio
+</p>  
           </div>  
           <div class="col-sm-4">  
-            <h3 margin="10px 0">Musician and Songwriter</h3>   
-            <p margin="10px 0 10px 0" style="text-align:left">Finale, Sibelius, Csound, Songwriter, Composer, Orchestrator, Musician, Guitarist, Guitar Theory and Technique Instructor, Algorithmic Composition, Sonification</p>  
+            <h3 margin="10px 0">Music</h3>
+            <h5 margin="10px 0 10px 0" style="text-align:left">Musician, Songwriter, Composer, Orchestrator, Guitar Theory and Technique Instructor, Session Guitarist</h5>
+            <p margin="10px 0 10px 0" style="text-align:left">Finale, Sibelius, Logic Pro, Csound, SuperCollider, Guitar, Piano, Bass, Drums, Modular Synthesizers, Musical Composition, Counterpoint, Harmony, Aural Skills, Jazz and Classical Theory, Algorithmic Composition, Sonification.</p>  
           </div>  
         </div>   
              

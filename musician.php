@@ -31,7 +31,7 @@
         <a href="http://www.miniboone.com/" target="_blank">
           <div class="projentry">
             <div id="imgwrapper">
-              <img src="imgs/miniboone.png" class="img-responsive img-rounded" alt="Responsive image">
+              <img src="imgs/miniboone2.png" class="img-responsive img-rounded" alt="Responsive image">
             </div>
             <div id="contentwrapper">
               <h2>Miniboone</h2>

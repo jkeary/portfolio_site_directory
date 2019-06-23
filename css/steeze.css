@@ -141,7 +141,7 @@ div.projentry:hover div#contentwrapper p {
 }
 div.projentry div#imgwrapper {
     height: auto;
-    width: 35%;
+    width: 40%;
 }
 div.projentry div#imgwrapper img {
   margin: 0;
@@ -149,7 +149,7 @@ div.projentry div#imgwrapper img {
   height: auto;
 }
 div.projentry div#contentwrapper {
-  width: 60%;
+  width: 55%;
 }
 div.projentry div#contentwrapper p.projentrytext {
   font-size: 16px;

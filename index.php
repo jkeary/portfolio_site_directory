@@ -16,8 +16,8 @@
         </div>
         
         <div class="row">
-          <div class="col-lg-12">  
-            <p id="titleText" style="text-align:center">Welcome to my portfolio website.  Click anywhere to stop the madness.</p>
+          <div class="col-lg-12" style="text-align:center">  
+            <span id="titleText">Welcome to my portfolio website.  Click anywhere to stop the madness.</span>
           </div>
         </div>
         

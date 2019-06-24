@@ -76,7 +76,19 @@
           </div>
           <div class="col-xs-4">
             <center>
-              <button type="button" class="btn btn-fake" rel="popover" data-container="body" data-toggle="popover" data-placement="left" data-html="true" data-content="<ul><li><a href='./docs/SoftwareEngineerResume.pdf' target='_tab'><span class='glyphicon glyphicon-file'></span> Software Engineer Resume</a></li><li><a href='./docs/CV.pdf' target="_tab"><span class="glyphicon glyphicon-file"></span> CV</a></li><li><a href='./publications.php'><span class='glyphicon glyphicon-folder-close'></span> Publications</a></li><li><a href='./presentations.php'><span class='glyphicon glyphicon-folder-close'></span> Presentations</a></li></ul>">
+              <button type="button" class="btn btn-fake" rel="popover" data-container="body" data-toggle="popover" data-placement="left" data-html="true" data-content="<ul>
+                <li>
+                  <a href='./docs/SoftwareEngineerResume.pdf' target='_tab'><span class='glyphicon glyphicon-file'></span> Software Engineer Resume</a>
+                </li>
+                <li>
+                  <a href='./docs/CV.pdf' target='_tab'><span class='glyphicon glyphicon-file'></span> CV</a></li>
+                <li>
+                  <a href='./publications.php'><span class='glyphicon glyphicon-folder-close'></span> Publications</a>
+                </li>
+                <li>
+                  <a href='./presentations.php'><span class='glyphicon glyphicon-folder-close'></span> Presentations</a>
+                </li>
+              </ul>">
                 <span class="glyphicon glyphicon-folder-close glyphicon-index"></span>
                 <br/>
                 <h2 class="small"><span style="background-color: black">Documents</span></h2>

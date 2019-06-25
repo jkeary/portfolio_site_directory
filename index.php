@@ -12,7 +12,7 @@
       <div class="container" style="max-width:800px">   
         
         <div class="page-header">
-          <h1 class="maintitle text-center"><span style="background-color: black; color: #008080">James Keary</span></h1>
+          <h1 class="maintitle text-center"><a href="./contact.php" role="button"><span style="background-color: black; color: #008080">James Keary</span></a></h1>
         </div>
         
         <div class="row">
@@ -141,7 +141,7 @@
           titleText.innerHTML = "Welcome to my portfolio website.  Click anywhere to stop the madness.";
         } else {
           video.pause();
-          titleText.innerHTML = "ahh, so much better...";
+          titleText.innerHTML = "Welcome to my portfolio website.  Click anywhere to start the madness.";
         }
       }
     </script>

@@ -2,3 +2,7 @@
 .vscode/*
 node_modules/
 node_modules/*
+video/
+video/*
+docs/
+docs/*

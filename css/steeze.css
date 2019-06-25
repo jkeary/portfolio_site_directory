@@ -455,3 +455,9 @@ div.videowrapper {
 th, h2, h3, h4 {
   color: goldenrod;
 }
+
+#aboutMeImg {
+  max-width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
+}

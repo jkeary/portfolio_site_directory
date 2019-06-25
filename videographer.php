@@ -17,6 +17,8 @@
         <br/>
 
         <div class="container">
+
+        <div class="lead">In the past, I've done some video work.</div>
         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
           <!-- Indicators -->
           <ol class="carousel-indicators">

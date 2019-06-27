@@ -1,10 +1,9 @@
 <?php require_once('header.php'); ?>
   <body style="padding-top:0px">
     <video autoplay muted loop id="myVideo">
-      <source src="video/VID_20190611_153125.mp4" type="video/mp4">
+      <source src="video/background_comp.mp4" type="video/mp4">
     </video>
-    
-    <button id="myBtn" onclick="myFunction()"></button>
+    <a id="videoArtworkLink" target='_tab' href="http://orbweaverarts.bigcartel.com">background art by Orbweaver Designs</a>
 
     <?php include_once("analyticstracking.php") ?>
     <div id="wrap">
@@ -17,7 +16,7 @@
         
         <div class="row">
           <div class="col-lg-12" style="text-align:center">  
-            <span id="titleText">Welcome to my portfolio website.  Click anywhere to stop the madness.</span>
+            <span id="titleText">Welcome to my portfolio website</span>
           </div>
         </div>
         
@@ -133,8 +132,6 @@
     <script>
       // Get the video
       var video = document.getElementById("myVideo");
-      video.playbackRate = 0.1
-
 
       // Get the title text
       var titleText = document.getElementById("titleText");
@@ -143,10 +140,8 @@
       function myFunction() {
         if (video.paused) {
           video.play();
-          titleText.innerHTML = "Welcome to my portfolio website.  Click anywhere to stop the madness.";
         } else {
           video.pause();
-          titleText.innerHTML = "Welcome to my portfolio website.  Click anywhere to start the madness.";
         }
       }
     </script>

@@ -23,7 +23,7 @@
             </div>
             <div id="contentwrapper">
               <h2>Frend</h2>
-              <p><a></a>Frend is my current project.  We play loud grungy rock music.  <a href="https://frendtheband.bandcamp.com" target="_blank">Click here for our bandcamp.</a></p>
+              <p><a></a>Frend is my current project which I started in 2017.  We play loud grungy rock music.  <a href="https://frendtheband.bandcamp.com" target="_blank">Click here for our bandcamp.</a></p>
             </div>
           </div>
         </a>

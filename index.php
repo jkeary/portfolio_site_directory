@@ -133,6 +133,8 @@
     <script>
       // Get the video
       var video = document.getElementById("myVideo");
+      video.playbackRate = 0.1
+
 
       // Get the title text
       var titleText = document.getElementById("titleText");

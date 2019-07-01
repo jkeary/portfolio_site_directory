@@ -190,6 +190,8 @@ body {
   position: fixed;
   z-index: 0;
   filter: brightness(85%) saturate(3.5);
+  min-width: 100%; 
+  min-height: 100%;
 }
 
 /* Style the button used to pause/play the video */

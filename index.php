@@ -8,7 +8,7 @@
     <?php include_once("analyticstracking.php") ?>
     <div id="wrap">
 
-      <div class="container" style="max-width:800px">   
+      <div class="container" style="max-width:800px; padding-top:5%;">   
         
         <div class="page-header">
           <h1 class="maintitle text-center"><a href="./contact.php" role="button"><span style="background-color: black; color: #008080">James Keary</span></a></h1>

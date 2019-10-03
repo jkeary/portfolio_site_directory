@@ -1,11 +1,11 @@
-<?php require_once('header.php'); ?>
+<?php 
+  require_once('header.php');
+  include_once("analyticstracking.php"); 
+  define('PAGE', 'Docs');
+  include_once("consts.php");
+  include_once("navbar.php");
+?>
   <body>
-    <?php include_once("analyticstracking.php") ?>
-    <?php 
-      define('PAGE', 'Docs');
-      include_once("navbar.php") 
-    ?>
-
     <div id="wrap">
       <div class="container" style="max-width:1000px">
         <div class="page-header-custom">

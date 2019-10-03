@@ -1,12 +1,10 @@
-<?php require_once('header.php'); ?>
-
+<?php 
+  require_once('header.php');
+  include_once("analyticstracking.php"); 
+  define('PAGE', 'Video');
+  include_once("navbar.php");
+?>
   <body>
-    <?php include_once("analyticstracking.php") ?>
-    <?php 
-      define('PAGE', 'Video');
-      include_once("navbar.php");
-    ?>
-
     <div id="wrap">
       <div class="container" style="max-width:790px">
 
@@ -18,7 +16,7 @@
 
         <div class="container">
 
-        <div class="lead">In the past, I've done some video work.</div>
+        <div class="lead">In the past, I've done some video work.  I haven't done anything recently, but I like these vidoes so here they are.</div>
         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
           <!-- Indicators -->
           <ol class="carousel-indicators">

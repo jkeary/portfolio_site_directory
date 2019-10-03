@@ -47,7 +47,7 @@
             </div>
             <div id="contentwrapper">
               <h2>Modern Notion</h2>
-              <p><a></a>Modern Notion is a pop history and science website from 2014 - 2016.  I was sole developer for this project.  The front end was done in ReactJS with SCSS, and the back was built using Wordpress's PHP Framework.</p>
+              <p><a></a>Modern Notion was a pop history and science website from 2014 - 2016.  I was sole developer for this project.  The front end was done in ReactJS with SCSS, and the back was built using Wordpress's PHP Framework.  Clicking anywhere will take you to the codebase on github.</p>
             </div>
           </div>
         </a>
@@ -83,7 +83,7 @@
             </div>
             <div id="contentwrapper">
               <h2>Medical Sonification Software in SuperCollider</h2>
-              <p><a></a>Interactive software I developed while working on the <a href="http://jameskeary.com/sonification_proj.php" target="_tab">Medical Imaging Sonification</a> research project at NYU Steinhardt.  Coding was done in SuperCollider, Csound, Matlab and C++ for this project.</p>
+              <p><a></a>Interactive software I developed while working on the <a href="http://jameskeary.com/sonification_proj.php" target="_tab">Medical Imaging Sonification</a> research project at NYU Steinhardt.  Coding was done in SuperCollider, Csound, Matlab and C++ for this project.  Click <a href="https://github.com/jkeary/sonification_gui" target="_blank">here</a> for the code.</p>
             </div>
           </div>
         </a>

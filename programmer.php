@@ -3,7 +3,8 @@
     <?php include_once("analyticstracking.php") ?>
     <?php 
       define('PAGE', 'Code');
-      include_once("navbar.php") 
+      include_once("navbar.php");
+      include_once("consts.php");
     ?>
 
     <div id="wrap">
@@ -15,6 +16,18 @@
         </div>
         <br/>
 
+        <a href="https://codeforphilly.org/projects/prevention_point_unified_reporting_system" target="_blank">
+          <div class="projentry">
+            <div id="imgwrapper">
+              <img src="imgs/preventionpoint.png" class="img-responsive img-rounded" alt="Responsive image">
+            </div>
+            <div id="contentwrapper">
+              <h2>Code for Philly - Prevention Point</h2>
+              <p><a></a>Currently I am voluntering my coding skills on a <a href="https://codeforphilly.org/" target="_blank">Code for Philly</a> project.  Code for Philly is the Philadelphia chapter of <a href="https://brigade.codeforamerica.org/" target="_blank">Code for America</a>, a national alliance of community organizers, coders and designers working to service local communities.  The current project that I am working on is the <a href="https://codeforphilly.org/projects/prevention_point_unified_reporting_system" target="_blank">Prevention Point Unified Reporting System</a> project.  Prevention Point is a non profit needle exchange program servicing the Philadelphia area.  On this project I have been working as the Lead Front End Engineer.  The front end tech stack is <a href="https://reactjs.org/" target="_blank">React JS</a> with <a href="https://mobx.js.org/" target="_blank">Mobx</a> for state management, leveraging <a href="https://material-ui.com/" target="_blank">Material-UI</a>'s premade design components.  The code for this open source project can be found at their github <a href="https://github.com/CodeForPhilly/prevention-point" target="_blank">here</a>.
+            </div>
+          </div>
+        </a>
+
         <a href="https://www.crowdskout.com" target="_blank">
           <div class="projentry">
             <div id="imgwrapper">
@@ -22,7 +35,7 @@
             </div>
             <div id="contentwrapper">
               <h2>Crowdskout</h2>
-              <p><a></a>Crowdskout is a tech start up in Washington DC and is where I worked for the past 5 years as a Software Engineer.  For a list of my duties including technologies I use on a daily basis, please take a look at my <a href="docs/Resume2019.pdf" target="_tab">resume</a>.</p>
+              <p><a></a>Crowdskout is a Washington DC based political advocacy and digital marketing tech start.  I  worked there for almost 5 years, from August 2014 to June 2019.  This is where I learned to be a Web Software Engineer.  For a list of my duties including technologies I use on a daily basis, please take a look at my <a href="<?php echo SERESUME ?>" target="_blank">resume</a>.</p>
             </div>
           </div>
         </a>

@@ -1,4 +1,6 @@
-<?php require_once('header.php'); ?>
+<?php require_once('header.php');
+ include_once("consts.php");
+?>
   <body style="padding-top:0px">
     <video autoplay muted loop id="myVideo">
       <source src="video/background_comp.mp4" type="video/mp4">
@@ -77,10 +79,10 @@
             <center>
               <button type="button" class="btn btn-fake" rel="popover" data-container="body" data-toggle="popover" data-placement="left" data-html="true" data-content="<ul>
                 <li>
-                  <a href='./docs/SoftwareEngineerResume.pdf' target='_tab'><span class='glyphicon glyphicon-file'></span> Software Engineer Resume</a>
+                  <a href='<?php echo SERESUME ?>' target='_tab'><span class='glyphicon glyphicon-file'></span> Software Engineer Resume</a>
                 </li>
                 <li>
-                  <a href='./docs/AudioEngineerResume.pdf' target='_tab'><span class='glyphicon glyphicon-file'></span> Audio Engineer Resume</a>
+                  <a href='<?php echo AERESUME ?>' target='_tab'><span class='glyphicon glyphicon-file'></span> Audio Engineer Resume</a>
                 </li>
                 <li>
                   <a href='./docs/CV.pdf' target='_tab'><span class='glyphicon glyphicon-file'></span> CV</a></li>

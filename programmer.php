@@ -15,6 +15,18 @@
       </div>
       <br/>
 
+      <a href="https://www.peoplemetrics.com" target="_blank">
+        <div class="projentry">
+          <div id="imgwrapper">
+            <img src="imgs/peoplemetrics.png" class="img-responsive img-rounded" alt="Responsive image">
+          </div>
+          <div id="contentwrapper">
+            <h2>PeopleMetrics</h2>
+            <p><a></a>PeopleMetrics is a Philadelphia PA based Customer and Patient Experience / Employee Engagment survey platform surving multiple industries.  I worked there from Dec 2019 to present.  While there I was part of a 4 person Agile dev team.  The tech stack was AngularJS, Node.js, Express, MongoDB, Django, Python, PostgreSQL.
+          </div>
+        </div>
+      </a>
+
       <a href="https://codeforphilly.org/projects/prevention_point_unified_reporting_system" target="_blank">
         <div class="projentry">
           <div id="imgwrapper">
@@ -22,7 +34,11 @@
           </div>
           <div id="contentwrapper">
             <h2>Code for Philly - Prevention Point</h2>
-            <p><a></a>Currently I am voluntering my coding skills on a <a href="https://codeforphilly.org/" target="_blank">Code for Philly</a> project.  Code for Philly is the Philadelphia chapter of <a href="https://brigade.codeforamerica.org/" target="_blank">Code for America</a>, a national alliance of community organizers, coders and designers working to service local communities.  The current project that I am working on is the <a href="https://codeforphilly.org/projects/prevention_point_unified_reporting_system" target="_blank">Prevention Point Unified Reporting System</a> project.  Prevention Point is a non profit needle exchange program servicing the Philadelphia area.  On this project I have been working as the Lead Front End Engineer.  The front end tech stack is <a href="https://reactjs.org/" target="_blank">React JS</a> with <a href="https://mobx.js.org/" target="_blank">Mobx</a> for state management, leveraging <a href="https://material-ui.com/" target="_blank">Material-UI</a>'s premade design components.  The code for this open source project can be found at their github <a href="https://github.com/CodeForPhilly/prevention-point" target="_blank">here</a>.
+            <p><a></a>Front End team lead on a volunteer project creating a single page web application for a local needle exchange intake medical software called the <a href="https://codeforphilly.org/projects/prevention_point_unified_reporting_system" target="_blank">Prevention Point Unified Reporting System</a> project.  Used React, Material UI, and Mobx for this project.  
+              <br></br>
+            <a href="https://codeforphilly.org/" target="_blank">Code for Philly</a> is the Philadelphia chapter of <a href="https://brigade.codeforamerica.org/" target="_blank">Code for America</a>, a national alliance of community organizers, coders and designers working to service local communities.  Prevention Point is a non profit needle exchange program servicing the Philadelphia area.  
+            <br></br>  
+            The code for this open source project can be found at their github <a href="https://github.com/CodeForPhilly/prevention-point" target="_blank">here</a>.
           </div>
         </div>
       </a>

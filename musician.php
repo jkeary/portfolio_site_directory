@@ -33,7 +33,7 @@
           </div>
           <div id="contentwrapper">
             <h2>Miniboone</h2>
-            <p><a></a>From September 2009 to January 2014, I was member of the New York City indie rock band, Miniboone.</p>
+            <p><a></a>From 2009 to 2014, I was member of the New York City indie rock band, Miniboone.</p>
           </div>
         </div>
       </a>

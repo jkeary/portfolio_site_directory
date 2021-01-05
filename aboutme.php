@@ -15,11 +15,13 @@
       <div>
         <p class="lead">
           <img id="aboutMeImg" class="rightimg_lg img-responsive img-rounded" src="./imgs/frend.jpg" align="right"/>
-          I am a musician and a songwriter.  My current project is the DC to Philadelphia rock band <a href="https://frendtheband.bandcamp.com" target="_blank">Frend</a>.  Previously I was a member of the NYC indie rock group <a href="https://miniboone.bandcamp.com" target="_blank">Miniboone</a>.  I have been commissioned to do pieces for commercials and videos, produced and written songs for and with other artists, created multiple recordings and music videos of my own work, toured and played over 200 shows, performed at major music festivals and large venues, and even have had songs I've written placed in films and tv shows.  My current <a href="./docs/CV.pdf" align="right" target="_blank">CV</a> has a complete listing of my musical credits.
+          I am a Software Engineer in Philadelphia, PA with 6+ years experience in web based development. I have a M.M. in Music Tech from NYU. My passions lie in collaborative and creative team problem solving for SaaS web based applications.
           <br><br>
-          For the past 5 years I worked as a Software Engineer for the Washington D.C. political advocacy marketing start-up Crowdskout.  Here is my current <a href="<?php echo SERESUME ?>" align="right" target="_blank">software engineering resume</a> with details on what I accomplished in that field.
+          I am knowledgeable in Javascript, Angularjs, Node.js, React, ES6, Python, PHP, Django, Laravel, MongoDB, MySql, Postgres, SCSS, and Git. I am versed in tools such as Docker, Jenkins, Postman, AWS, Grunt, Yarn/NPM, and Bash. 
           <br><br>
-          I also have work and education experience in the audio tech field.  I went to NYU Steinhart where I received my Masters in Music Technology.  Here is my current <a href="<?php echo AERESUME ?>" align="right" target="_blank">audio engineering resume</a> with my accomplishments in that line of work.
+          Other interests include being a performing, writing, touring, and recording musician in my rock band. I have multiple records, including song placements in movies and television. I also have 2 cats.
+          <br><br>
+          My current <a href='<?php echo SERESUME ?>' target='_tab' align="right">resume</a> has a relevant listing of my software engineering experiences.
           <br><br>
           Feel free to contact me at <a href="mailto:jkeary@gmail.com" target="_blank">jkeary@gmail.com</a>.
         </p> 

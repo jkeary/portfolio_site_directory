@@ -64,5 +64,3 @@
       <br/>
 
     </div><!--wrap-->
-
-    <?php include_once("footer.php") ?>

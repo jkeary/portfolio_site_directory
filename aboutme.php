@@ -24,10 +24,12 @@
           My current <a href='<?php echo SERESUME ?>' target='_tab' align="right">resume</a> has a relevant listing of my software engineering experiences.
           <br><br>
           Feel free to contact me at <a href="mailto:jkeary@gmail.com" target="_blank">jkeary@gmail.com</a>.
+          <br><br/>
+          <a data-toggle="tooltip" data-placement="bottom" title="LinkedIn" href="http://www.linkedin.com/in/jameskeary" target="_blank"><img src="./imgs/linkedin_48.png" alt="LinkedIn" id="LinkedIn"/></a>
+          <a data-toggle="tooltip" data-placement="bottom" title="Github" href="https://github.com/jkeary" target="_blank"><img src="./imgs/github_48.png" alt="Github" id="Github"/></a>
         </p> 
       </div>            
     </div><!--container-->
     <br/>
     <div id="like_button_container"></div>
   </div><!--wrap-->
-<?php include_once("footer.php") ?>

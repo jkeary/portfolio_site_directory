@@ -48,15 +48,7 @@
         </div>   
         <h4>I am also plugged into the networks below.  If you are too, thats neat, lets connect.</h4>
       </div>
-      <a data-toggle="tooltip" data-placement="bottom" title="LinkedIn" href="http://www.linkedin.com/in/jameskeary" target="_blank"><img src="./imgs/linkedin_48.png" alt="LinkedIn" id="LinkedIn"/></a>
-      <!-- <a data-toggle="tooltip" data-placement="bottom" title="Angellist" href="http://angel.co/james-keary" target="_blank"><img src="./imgs/angellist_48.png" alt="Angellist" id="Angellist"/></a> -->
-      <!-- <a data-toggle="tooltip" data-placement="bottom" title="Facebook" href="http://www.facebook.com/jaemskeray" target="_blank"><img src="./imgs/fb_48.png" alt="Facebook" id="Facebook"/></a> -->
-      <!-- <a data-toggle="tooltip" data-placement="bottom" title="YouTube" href="http://www.youtube.com/JaemsKeray" target="_blank"><img src="./imgs/yt_48.png" alt="YouTube" id="Youtube"/></a> -->
-      <!-- <a data-toggle="tooltip" data-placement="bottom" title="Vimeo" href="http://www.vimeo.com/jaemskeray" target="_blank"><img src="./imgs/vimeo_48.png" alt="Vimeo" id="Vimeo"/></a> -->
-      <a data-toggle="tooltip" data-placement="bottom" title="Github" href="https://github.com/jkeary" target="_blank"><img src="./imgs/github_48.png" alt="Github" id="Github"/></a>
-      <!-- <a data-toggle="tooltip" data-placement="bottom" title="Soundcloud" href="http://soundcloud.com/jameskeary" target="_blank"><img src="./imgs/soundcloud_48.png" alt="Soundcloud" id="Soundcloud"/></a>
-      <a data-toggle="tooltip" data-placement="bottom" title="Wordpress" href="http://oneminreviews.wordpress.com/" target="_blank"><img src="./imgs/wordpress_48.png" alt="Wordpress" id="Wordpress"/></a> -->
+      
     </div> <!--container-->
     <br/>
   </div> <!--wrap-->
-<?php include_once("footer.php") ?>

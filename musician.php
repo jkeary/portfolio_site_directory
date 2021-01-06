@@ -90,5 +90,3 @@
   </div> <!--wrap-->
 
   <br/>
-  
-<?php include_once("footer.php") ?>

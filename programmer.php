@@ -22,7 +22,7 @@
           </div>
           <div id="contentwrapper">
             <h2>PeopleMetrics</h2>
-            <p><a></a>PeopleMetrics is a Philadelphia PA based Customer and Patient Experience / Employee Engagment survey platform surving multiple industries.  I worked there from Dec 2019 to present.  While there I was part of a 4 person Agile dev team.  The tech stack was AngularJS, Node.js, Express, MongoDB, Django, Python, PostgreSQL.
+            <p><a></a>PeopleMetrics is a Philadelphia PA based Customer and Patient Experience / Employee Engagment survey platform surving multiple industries.  I worked there from Dec 2019 to present as a Full Stack Engineer.  While there I was part of a 4 person Agile dev team.  The tech stack was AngularJS, Node.js, Express, MongoDB, Django, Python, PostgreSQL.
           </div>
         </div>
       </a>
@@ -130,5 +130,3 @@
       </div>
   </div>
   <br/>
-  
-<?php include_once("footer.php") ?>

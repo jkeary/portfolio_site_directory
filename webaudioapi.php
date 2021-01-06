@@ -52,5 +52,4 @@
     </div><!--container-->
 
     <br/>
-<?php include_once("footer.php") ?>
 <script type="text/javascript" src="../js/oscilloscope.js"></script>

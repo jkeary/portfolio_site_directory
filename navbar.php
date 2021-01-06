@@ -19,7 +19,7 @@
                         'Code' => '<a href="./programmer.php"><span class="glyphicon glyphicon-phone"></span> Code</a>',
                         'Music' => '<a href="./musician.php"><span class="glyphicon glyphicon-music"></span> Music</a>',
                         'Video' => '<a href="./videographer.php"><span class="glyphicon glyphicon-facetime-video"></span> Video</a>',
-                        'Doc' => '<a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-folder-close"></span> Docs<b class="caret"></b></a>
+                        'Docs' => '<a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-folder-close"></span> Docs<b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li><a href="'.SERESUME.'" target="_tab"><span class="glyphicon glyphicon-file"></span> Software Engineer Resume</a></li>
                             <li><a href="./publications.php"><span class="glyphicon glyphicon-folder-close"></span> Publications</a></li>

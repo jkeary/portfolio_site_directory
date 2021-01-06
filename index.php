@@ -80,13 +80,8 @@
               <button type="button" class="btn btn-fake" rel="popover" data-container="body" data-toggle="popover" data-placement="left" data-html="true" data-content="<ul>
                 <li>
                   <a href='<?php echo SERESUME ?>' target='_tab'><span class='glyphicon glyphicon-file'></span> Software Engineer Resume</a>
-                </li>
-                <!-- <li>
-                  <a href='<?php echo AERESUME ?>' target='_tab'><span class='glyphicon glyphicon-file'></span> Audio Engineer Resume</a>
-                </li> -->
-                <!-- <li>
-                  <a href='./docs/CV.pdf' target='_tab'><span class='glyphicon glyphicon-file'></span> CV</a></li>
-                <li> -->
+                </li> 
+                <li>
                   <a href='./publications.php'><span class='glyphicon glyphicon-folder-close'></span> Publications</a>
                 </li>
                 <li>
